@@ -23,6 +23,12 @@ Office Hour Time: By appointment
 
 Office Hour Time: By appointment 
 
+### [Suhaila Mohammed](mailto:1910496@iub.edu.bd) 
+
+[Google Meet](http://meet.google.com/ooy-ozzg-dzt)
+
+Office Hour Time: By appointment 
+
 * * *
 ## Class Timing
 M 11:00-12:30  W 09:30-12:30
