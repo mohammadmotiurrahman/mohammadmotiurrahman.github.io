@@ -129,6 +129,8 @@ environment will force me to not evaluate your exam copies.
 |         |              | [Youtube Link](https://youtu.be/iOKFC13Z8BA)                                                                   |
 | 23      |              | [Google Jamboard]() |
 |         |              | [Youtube Link](https://youtu.be/V2fadJE68rY)                                                                   |
+| 24      |              | [Google Jamboard]() |
+|         |              | [Youtube Link](https://youtu.be/3d63ziuaf_k)                                                                   |
 
 
 
