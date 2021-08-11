@@ -127,7 +127,11 @@ environment will force me to not evaluate your exam copies.
 |         |              | [Google Jamboard](https://jamboard.google.com/d/1IhD8bAk5D-u4oKWxwJNu6jErSS5aQImtzPHmIcaJyN8/edit?usp=sharing) |
 | 22      |              | [Youtube Link](https://youtu.be/URRhF52A528)                                                                   |
 |         |              | [Google Jamboard](https://jamboard.google.com/d/1CO9aZMZnXvIi1Pf7SzzJk67Aonp3dJrbskbne1oDpV4/edit?usp=sharing) |
+| 23      |              | [Youtube Link](https://youtu.be/ML7GMmTLnwY)                                                                   |
+|         |              | [Google Jamboard]() |
 
+
+## Sli
 
 ## Slides
 
