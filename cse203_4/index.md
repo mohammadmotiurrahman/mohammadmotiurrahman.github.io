@@ -136,8 +136,6 @@ environment will force me to not evaluate your exam copies.
 
 
 
-## Sli
-
 ## Slides
 
 | Lecture Slides in PDF                         |                                              |
