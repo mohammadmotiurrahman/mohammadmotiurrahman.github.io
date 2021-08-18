@@ -135,9 +135,8 @@ environment will force me to not evaluate your exam copies.
 |         |              | [Apple Slides](https://www.icloud.com/keynote/0-BwceUj09bycI6LdTysMoQtA#Presentation_5) |
 | 26      |              | [Youtube Link](https://youtu.be/rqXCaeRwo18)                                                                   |
 |         |              | [Apple Slides](https://www.icloud.com/keynote/09LtWkH-v-yoydagIPSMtyKUw#Presentation_7) |
-
-
-
+| 27      |              | [Youtube Link](https://youtu.be/0kGh7VCaczY)                                                                   |
+|         |              | [Apple Slides](https://www.icloud.com/keynote/09LtWkH-v-yoydagIPSMtyKUw#Presentation_7) |
 
 
 ## Slides
