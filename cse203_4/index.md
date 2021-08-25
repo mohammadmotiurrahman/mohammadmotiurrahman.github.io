@@ -140,7 +140,7 @@ environment will force me to not evaluate your exam copies.
 | 28      |              | [Youtube Link](https://youtu.be/KlQXT46950w)                                                                   |
 |         |              | [Apple Slides](https://www.icloud.com/keynote/0JfO1oBCIpuDzLSDIGRGcGTaA#Presentation_10) |
 | 29      |              | [Youtube Link](https://youtu.be/E_3VwuxrBE8)                                                                   |
-|         |              | [Apple Slides](https://www.icloud.com/keynote/08SwmmdiYUM4Nn8xzcwCtu0DA#Presentation_12) |
+|         |              | [Google Jamboard](https://jamboard.google.com/d/1NBQnAPDS2U1aZgep_kR4slz4dPCcGNYHMZ0FI0ZGOjA/edit?usp=sharing) |
 
 
 ## Slides
