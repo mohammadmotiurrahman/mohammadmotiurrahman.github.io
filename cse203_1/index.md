@@ -149,7 +149,7 @@ environment will force me to not evaluate your exam copies.
 |         |              | [Youtube Link](https://youtu.be/_5kFdUetyvE)                                                                   |
 | 33      |              | [Google Slides](https://jamboard.google.com/d/1k7imAXKPl6azeiaRyZ7Bd0yFImYqhLpILUNQ552Aqto/edit?usp=sharing) |
 |         |              | [Youtube Link](https://youtu.be/oMbPdfKQF7g)                                                                   |
-| 34      |              | [Google Slides]() |
+| 34      |              | [Google Slides](https://jamboard.google.com/d/1n2-dFy9BiybDtxGLeEOYs9lsZ7G37JAf8TTn2yrDxzo/edit?usp=sharing) |
 |         |              | [Youtube Link](https://youtu.be/3Ena1axlcrs)                                                                   |
 
 
