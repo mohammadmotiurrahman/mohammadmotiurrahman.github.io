@@ -151,6 +151,8 @@ environment will force me to not evaluate your exam copies.
 |         |              | [Google Jamboard](https://jamboard.google.com/d/1j_PwT0ZbGE-bCZHzirxNq9lDDBEchbqDkIuRlNSBvlI/edit?usp=sharing) |
 | 34      |              | [Youtube Link](https://youtu.be/O6Q_WqOpqUU)                                                                   |
 |         |              | [Google Jamboard](https://jamboard.google.com/d/1j_PwT0ZbGE-bCZHzirxNq9lDDBEchbqDkIuRlNSBvlI/edit?usp=sharing) |
+| Extra_1 |              | [Google Slides]()|
+|         |              | [Youtube Link](https://youtu.be/VukqFnapVh0)                                                                   |
 
 
 
