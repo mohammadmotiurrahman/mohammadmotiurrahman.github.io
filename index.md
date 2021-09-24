@@ -1,5 +1,5 @@
-# [CSE 203 Sec 1](https://mohammadmotiurrahman.github.io/cse203_5)
-# [CSE 203 Sec 4](https://mohammadmotiurrahman.github.io/cse203_6)
+# [CSE 203 Sec 5](https://mohammadmotiurrahman.github.io/cse203_5)
+# [CSE 203 Sec 6](https://mohammadmotiurrahman.github.io/cse203_6)
 # [Summer 2021](https://mohammadmotiurrahman.github.io/summer2021)
 
 * * *
