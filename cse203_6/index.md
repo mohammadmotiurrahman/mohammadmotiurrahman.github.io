@@ -1,4 +1,4 @@
-# CSE 203 Sec 5 | Data Structure
+# CSE 203 Sec 6 | Data Structure
 
 ## Instructor
 ### Mohammad Motiur Rahman
