@@ -1,4 +1,4 @@
-# CSE 203 Sec 5 | Data Structure
+# CSE 317 Sec 2 | Numerical Method
 
 ## Instructor
 ### Mohammad Motiur Rahman
