@@ -6,18 +6,11 @@ Email: motiur@iub.edu.bd
 * * *
 ## Unofficial Teaching Assistants
 
-### [Zulker Nayeen Nahiyan](mailto:1910063@iub.edu.bd) 
+### [Rezaul Khan Ahad](mailto:1830187@iub.edu.bd) 
 
-[Google Meet](http://meet.google.com/rmm-fzar-yng)
+[Google Meet](meet.google.com/txg-rebq-noi)
 
 Office Hour Time: By appointment
-
-
-### [Suhaila Mohammed](mailto:1910496@iub.edu.bd) 
-
-[Google Meet](http://meet.google.com/ooy-ozzg-dzt)
-
-Office Hour Time: By appointment 
 
 * * *
 ## Class Timing
@@ -76,7 +69,7 @@ environment will force me to not evaluate your exam copies.
 
 | Lecture Slides in PDF                         |                                              |
 |:----------------------------------------------|:---------------------------------------------|
-| [Lecture 0](/cse203slides/Lecture%200.pdf)    | [Lecture 1a](/cse203slides/Lecture%201a.pdf) |
+| [Lecture 0](/)    | [Lecture 1a](/) |
 
 
 
@@ -88,20 +81,12 @@ environment will force me to not evaluate your exam copies.
 
 
 ## Reference Books
-1. [Course reader of CS 106L from Stanford University](https://bitly.com/cs106Lcoursereader)
-2. [Course reader of CS 106B from Stanford Univesity](https://bitly.com/cs106Bcoursereader)
-3. [A Computer Science Tapestry, second edition](https://www2.cs.duke.edu/csed/tapestry/)
-4. [CS 50 Study Guide for improving yours basics](https://study.cs50.net/linked_lists)
-5. [Essential C by Nick Parlante](http://cslibrary.stanford.edu/101/EssentialC.pdf)
+
 
 * * *
 
 ## Other essential references
-1. [Book Reference for C++](https://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list)
-2. [Online C++ reference](https://en.cppreference.com)
-3. [Online C++ reference](http://www.cplusplus.com/)
-4. [CS50 in fall of 2017](http://cs50.tv/2017/fall/)
-5. [Book Reference for C](https://stackoverflow.com/questions/562303/the-definitive-c-book-guide-and-list)
+
 
 * * *
 
