@@ -68,9 +68,9 @@ environment will force me to not evaluate your exam copies.
 |:--------|:-------------|:---------------------------------------------------------------------------------------------------------------|
 | 1       | Installation | [MinGW](https://drive.google.com/file/d/1WfPqvXIQ9ImnaKR7J7J3UnXzxPoBlpZH/view)                                |
 |         |              | [Youtube Link](https://youtu.be/GIVYwN5Mx3U)                                                                                               |
-|         |              | [Visual Studio Community Edition](https://visualstudio.microsoft.com/free-developer-offers/)                   |
-|         |              | [Visual Studio Code](https://code.visualstudio.com/?wt.mc_id=vscom_downloads)                                  |
-|         |              | [Sublime Text](https://www.sublimetext.com/)                                                                   |
+|         |              | [Visual Studio Community Edition_1stway](https://visualstudio.microsoft.com/free-developer-offers/)                   |
+|         |              | [Visual Studio Code_2ndway](https://code.visualstudio.com/?wt.mc_id=vscom_downloads)                                  |
+|         |              | [Sublime Text_3rdway](https://www.sublimetext.com/)                                                                   |
 
 
 
