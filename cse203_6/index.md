@@ -67,7 +67,7 @@ environment will force me to not evaluate your exam copies.
 | Class   | Topics       | Notes                                                                                                          | 
 |:--------|:-------------|:---------------------------------------------------------------------------------------------------------------|
 | 0       | Installation | [MinGW](https://drive.google.com/file/d/1WfPqvXIQ9ImnaKR7J7J3UnXzxPoBlpZH/view)                                |
-|         |              | [Youtube Link]()                                                                                               |
+|         |              | [Youtube Link](https://youtu.be/ELMjMr3U6JI)                                                                                               |
 |         |              | [Visual Studio Community Edition](https://visualstudio.microsoft.com/free-developer-offers/)                   |
 |         |              | [Visual Studio Code](https://code.visualstudio.com/?wt.mc_id=vscom_downloads)                                  |
 |         |              | [Sublime Text](https://www.sublimetext.com/)                                                                   |
