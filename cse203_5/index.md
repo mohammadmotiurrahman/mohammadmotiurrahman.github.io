@@ -71,7 +71,7 @@ environment will force me to not evaluate your exam copies.
 |         |              | [Visual Studio Community Edition_1stway](https://visualstudio.microsoft.com/free-developer-offers/)            |
 |         |              | [Visual Studio Code_2ndway](https://code.visualstudio.com/?wt.mc_id=vscom_downloads)                           |
 |         |              | [Sublime Text_3rdway](https://www.sublimetext.com/)                                                            |
-| 2       | Installation | [Youtube Link](https://youtu.be/GIVYwN5Mx3U)                                |
+| 2       | Installation | [Youtube Link](https://youtu.be/2ilsXu3XKvY)                                |
 |         |              |                                                                                             |
 
 
