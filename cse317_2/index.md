@@ -70,27 +70,7 @@ The objective of this course is to introduce the student computational methods r
 
 <b>4.</b>Implement numerical methods in Python.
 
-<b>5.</b>Write efficient, well-documented Matlab code and present numerical results in an informative way. 
-
-
-<b>Textbook</b> 
-
-<b>1.</b> [VMLS] Introduction to Applied Linear Algebra - Vectors, Matrices, and Least Squares, by S. Boyd and L. Vandenberghe (available at: https://web.stanford.edu/~boyd/vmls/)
-
-<b>2.</b> [notes] Additional notes to Applied Numerical Computing, http://www.seas.ucla.edu/~vandenbe/133A/133A-notes.pdf
-
-<b>3.</b> [NME] Numerical Methods for Engineers, by S. Chapra, 7th ed., McGraw Hill
-
-<b>References:</b>
-
-Applied Numerical Methods with MATLAB for Engineers and Scientists, by S. Chapra, 3rd ed., McGraw Hill.
-
-Coding the Matrix - Linear Algebra through Applications in Computer Science, by P. Klein (resources: codingthematrix.com)
-
-<b>Similar course:</b> 
-
-Applied Numerical Computing, Prof. L. Vandenberghe, UCLA: http://www.seas.ucla.edu/~vandenbe/133A/
-
+<b>5.</b>Write efficient, well-documented Python code and present numerical results in an informative way. 
 
 ## Class Schedule
 
@@ -99,31 +79,19 @@ Applied Numerical Computing, Prof. L. Vandenberghe, UCLA: http://www.seas.ucla.e
 |              |Approximation errors and approximating single variable functions                                                |
 | Ch 3, 4 NME  | Floating point number system and error in number representation, review of derivatives, Taylor Series, finding optima of single variable functions|
 | Ch 5, 6 NME  | Finding roots of single variable functions – Bisection, Secant and Newton-Raphson Method                       |
-| |Vectors and Matrices|
+|              |Vectors and Matrices|
 |Ch 1,2 VMLS   |Vectors - review of vector notation, vector operations, linear and affine multivariable functions, complex vectors, complexity of vector computations, applications: vector representation of data (e.g., images, documents, timeseries, features), vector representation of linear and affine functions (e.g., regression, Linear (Taylor) approximation of multivariable function functions)|
 |Ch 3,4 VMLS   |Norms and distances - Euclidean norm and distances, properties (Cauchy-Schwarz and triangle inequalities, Pythagorean theorem), statistical measurements of data: average, rms, standard deviation, and angle between vectors and correlation, covariance; representation of hyperplanes, application: single variable linear regression, k-means clustering|
-| |Direct Methods for Solving System of Linear Equations|
+|              |Direct Methods for Solving System of Linear Equations|
 |Ch 8 VMLS|Solving system of linear equations using LU decomposition, application: Polynomial interpolation and Vandermonde matrix, applications of solving system of linear equations|
 |Ch 5, 11 VMLS |Matrix Inverses: Left and right inverses, solving system of linear equations using matrix inverses, Gram matrix and Pseudo-inverse|
-| |Orthogonality and Least Square Methods|
+|              |Orthogonality and Least Square Methods|
 |Ch 5, 10, 11 VMLS|Basis, orthogonality and inner products: basis and change of basis, Orthogonal basis, Gram-Schmidt, modified-Gram Schmidt algorithms, QR decomposition of matrices, Householder reflections, application: solving system of linear equations using QR factorization, lower dimensional data representation|
 |Ch 12-14 VMLS; Ch 17 NME|Linear least-Squares: solution to over-determined systems, normal equation and pseudo inverse of a matrix, computing pseudo inverse using QR and Cholesky factorization, solving least squares using matrix-vector derivates, application: data fitting and least-square regression, feature engineering, Least-square classification, regularized least square data fitting, least square function approximation |
-| |Interpolation|
+|              |Interpolation|
 |Ch 18 NME |Interpolation using monomial and Lagrange bases will be discussed in Linear equation lecture. Interpolation using other basis functions: Newton, Legendre, Chebyshev bases, Hermite interpolation, cubic spline interpolation|
-| | Numerical Differentiation and Integration|
+|              | Numerical Differentiation and Integration|
 |Ch 22, 23 NME|Finite divided difference approximation of derivatives, Trapezoidal rule, Simpson’s rule|
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 ## Class Schedule
@@ -132,8 +100,6 @@ Applied Numerical Computing, Prof. L. Vandenberghe, UCLA: http://www.seas.ucla.e
 |:--------|:-------------|:---------------------------------------------------------------------------------------------------------------|
 | 0       | Introduction | [Google Jamboard]()                                                                                            |
 |         |              | [Youtube Link]()                                                                                               |
-
-
 
 
 ## Slides
@@ -152,6 +118,24 @@ Applied Numerical Computing, Prof. L. Vandenberghe, UCLA: http://www.seas.ucla.e
 
 
 ## Reference Books
+
+<b>1.</b> [VMLS] Introduction to Applied Linear Algebra - Vectors, Matrices, and Least Squares, by S. Boyd and L. Vandenberghe (available at: https://web.stanford.edu/~boyd/vmls/)
+
+<b>2.</b> [notes] Additional notes to Applied Numerical Computing, http://www.seas.ucla.edu/~vandenbe/133A/133A-notes.pdf
+
+<b>3.</b> [NME] Numerical Methods for Engineers, by S. Chapra, 7th ed., McGraw Hill
+
+<b>References:</b>
+
+Applied Numerical Methods with MATLAB for Engineers and Scientists, by S. Chapra, 3rd ed., McGraw Hill.
+
+Coding the Matrix - Linear Algebra through Applications in Computer Science, by P. Klein (resources: codingthematrix.com)
+
+<b>Similar course:</b> 
+
+Applied Numerical Computing, Prof. L. Vandenberghe, UCLA: http://www.seas.ucla.edu/~vandenbe/133A/
+
+
 
 
 * * *
