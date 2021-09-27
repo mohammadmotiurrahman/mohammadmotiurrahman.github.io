@@ -73,6 +73,42 @@ The objective of this course is to introduce the student computational methods r
 <b>5.</b>Write efficient, well-documented Matlab code and present numerical results in an informative way. 
 
 
+<b>Textbook</b> 
+
+<b>1.</b> [VMLS] Introduction to Applied Linear Algebra - Vectors, Matrices, and Least Squares, by S. Boyd and L. Vandenberghe (available at: https://web.stanford.edu/~boyd/vmls/)
+
+<b>2.</b> [notes] Additional notes to Applied Numerical Computing, http://www.seas.ucla.edu/~vandenbe/133A/133A-notes.pdf
+
+<b>3.</b> [NME] Numerical Methods for Engineers, by S. Chapra, 7th ed., McGraw Hill
+
+<b>References:</b>
+
+Applied Numerical Methods with MATLAB for Engineers and Scientists, by S. Chapra, 3rd ed., McGraw Hill.
+
+Coding the Matrix - Linear Algebra through Applications in Computer Science, by P. Klein (resources: codingthematrix.com)
+
+<b>Similar course:</b> 
+
+Applied Numerical Computing, Prof. L. Vandenberghe, UCLA: http://www.seas.ucla.edu/~vandenbe/133A/
+
+
+## Class Schedule
+
+| Chapter      |Topic                                                                                                           | 
+|:-------------|:---------------------------------------------------------------------------------------------------------------|
+|Approximation errors and approximating single variable functions                                                               |
+| Ch 3, 4 NME  | Floating point number system and error in number representation, review of derivatives, Taylor Series, finding |
+|              | optima of single variable functions                                                                            |
+| Ch 5, 6 NME  | Finding roots of single variable functions – Bisection, Secant and Newton-Raphson Method                       |
+
+
+
+
+
+
+
+
+
 ## Class Schedule
 
 | Class   | Topics       | Notes                                                                                                          | 
