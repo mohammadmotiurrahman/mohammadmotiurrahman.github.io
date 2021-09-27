@@ -97,8 +97,7 @@ Applied Numerical Computing, Prof. L. Vandenberghe, UCLA: http://www.seas.ucla.e
 | Chapter      |Topic                                                                                                           | 
 |:-------------|:---------------------------------------------------------------------------------------------------------------|
 |Approximation errors and approximating single variable functions                                                               |
-| Ch 3, 4 NME  | Floating point number system and error in number representation, review of derivatives, Taylor Series, finding 
-                 optima of single variable functions                                                                            |
+| Ch 3, 4 NME  | Floating point number system and error in number representation, review of derivatives, Taylor Series, finding optima of single variable functions|
 | Ch 5, 6 NME  | Finding roots of single variable functions – Bisection, Secant and Newton-Raphson Method                       |
 
 
