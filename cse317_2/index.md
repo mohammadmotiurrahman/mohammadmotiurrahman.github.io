@@ -92,7 +92,7 @@ The objective of this course is to introduce the student computational methods r
 |Ch 18 NME     |Interpolation using monomial and Lagrange bases will be discussed in Linear equation lecture. Interpolation using other basis functions: Newton, Legendre, Chebyshev bases, Hermite interpolation, cubic spline interpolation|
 |              |<b>Numerical Differentiation and Integration</b>|
 |Ch 22, 23 NME|Finite divided difference approximation of derivatives, Trapezoidal rule, Simpson’s rule|
-
+|Ch 6, 7 (notes)	2|<b>Problem Condition, Algorithm Stability	</b>|
 
 ## Class Schedule
 
