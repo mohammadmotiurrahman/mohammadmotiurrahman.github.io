@@ -85,7 +85,7 @@ The objective of this course is to introduce the student computational methods r
 |              |<b>Direct Methods for Solving System of Linear Equations</b>|
 |Ch 8 VMLS|Solving system of linear equations using LU decomposition, application: Polynomial interpolation and Vandermonde matrix, applications of solving system of linear equations|
 |Ch 5, 11 VMLS |Matrix Inverses: Left and right inverses, solving system of linear equations using matrix inverses, Gram matrix and Pseudo-inverse|
-|              |Orthogonality and Least Square Methods|
+|              |<b>Orthogonality and Least Square Methods</b>|
 |Ch 5, 10, 11 VMLS|Basis, orthogonality and inner products: basis and change of basis, Orthogonal basis, Gram-Schmidt, modified-Gram Schmidt algorithms, QR decomposition of matrices, Householder reflections, application: solving system of linear equations using QR factorization, lower dimensional data representation|
 |Ch 12-14 VMLS; Ch 17 NME|Linear least-Squares: solution to over-determined systems, normal equation and pseudo inverse of a matrix, computing pseudo inverse using QR and Cholesky factorization, solving least squares using matrix-vector derivates, application: data fitting and least-square regression, feature engineering, Least-square classification, regularized least square data fitting, least square function approximation |
 |              |<b>Interpolation</b>|
