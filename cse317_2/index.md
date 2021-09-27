@@ -55,6 +55,24 @@ environment will force me to not evaluate your exam copies.
 <b>h.</b>If you are not comfortable with the workings of this class , you can email the head of the Department [Dr. Mahady Hasan](mailto:mahady@iub.edu.bd ) and then the Dean of Department [Dr Yusuf Mahbubul Islam](mailto:ymislam@iub.edu.bd ). If you feel you need to complain to more "important" entities besides these two personnel, I would request you to rethink taking this course.
 * * *   
 
+## Course Outline
+<b> Course Objective </b>
+
+The objective of this course is to introduce the student computational methods required by engineers, mathematicians, physicists and economists to explore complex systems. Mathematical models developed to explore complex systems can be rarely “solvable” algebraically and hence computational methods have been developed. This course introduces such methods that range from techniques for system of linear equations, nonlinear equations, approximation of functions, interpolation, clustering, least square data fitting and classification, differentiation and integration. More emphasis will be put on applied linear algebra topics which are prerequisite for Artificial Intelligence, Machine Learning, and other advanced courses. We will make use of Matlab programming to implement and analyze the methods.
+
+<b> Learning Outcomes </b>
+
+<b>1.</b>Demonstrate understanding of the Linear algebra theory that underlies the many of common computational methods and how the methods are used to obtain approximate solutions to otherwise intractable mathematical problems.
+
+<b>2.</b>Apply numerical methods to obtain approximate solutions to mathematical problems.
+
+<b>3.</b>Derive numerical methods for various mathematical operations and tasks, such as interpolation, differentiation, integration, the solution of linear and nonlinear equations, and least square optimization used in clustering, data fitting, and classification.
+
+<b>4.</b>Implement numerical methods in Python.
+
+<b>5.</b>Write efficient, well-documented Matlab code and present numerical results in an informative way. 
+
+
 ## Class Schedule
 
 | Class   | Topics       | Notes                                                                                                          | 
