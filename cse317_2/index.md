@@ -105,8 +105,8 @@ The objective of this course is to introduce the student computational methods r
 
 | Class   | Topics       | Notes                                                                                                          | 
 |:--------|:-------------|:---------------------------------------------------------------------------------------------------------------|
-| 0       | Introduction | [Google Jamboard]()                                                                                            |
-|         |              | [Youtube Link]()                                                                                               |
+| 1       | Introduction | [Google Jamboard]()                                                                                            |
+|         |              | [Youtube Link](https://youtu.be/8t2vPziP56Q)                                                                                               |
 
 
 ## Slides
