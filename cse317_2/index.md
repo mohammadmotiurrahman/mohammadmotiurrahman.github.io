@@ -26,6 +26,8 @@ Midterm Exam - 30 marks
 
 Final Exam - 40 marks
 * * *
+
+
 ## Code of conduct
 Plagiarism will absolutely not be tolerated.
 
@@ -55,7 +57,9 @@ environment will force me to not evaluate your exam copies.
 <b>h.</b>If you are not comfortable with the workings of this class , you can email the head of the Department [Dr. Mahady Hasan](mailto:mahady@iub.edu.bd ) and then the Dean of Department [Dr Yusuf Mahbubul Islam](mailto:ymislam@iub.edu.bd ). If you feel you need to complain to more "important" entities besides these two personnel, I would request you to rethink taking this course.
 * * *   
 
+
 ## Course Outline
+
 <b> Course Objective </b>
 
 The objective of this course is to introduce the student computational methods required by engineers, mathematicians, physicists and economists to explore complex systems. Mathematical models developed to explore complex systems can be rarely “solvable” algebraically and hence computational methods have been developed. This course introduces such methods that range from techniques for system of linear equations, nonlinear equations, approximation of functions, interpolation, clustering, least square data fitting and classification, differentiation and integration. More emphasis will be put on applied linear algebra topics which are prerequisite for Artificial Intelligence, Machine Learning, and other advanced courses. We will make use of Matlab programming to implement and analyze the methods.
@@ -94,6 +98,7 @@ The objective of this course is to introduce the student computational methods r
 |              |<b>Numerical Differentiation and Integration</b>|
 |Ch 22, 23 NME|Finite divided difference approximation of derivatives, Trapezoidal rule, Simpson’s rule|
 |Ch 6, 7 (notes)	2|<b>Problem Condition, Algorithm Stability	</b>|
+* * * 
 
 
 ## Class Schedule
@@ -121,26 +126,29 @@ The objective of this course is to introduce the student computational methods r
 ## Reference Books
 
 <b>0.</b> [Introduction to Linear Algebra, Fifth Edition (2016), by Gilbert Strang](https://math.mit.edu/~gs/linearalgebra/)
+
 <b>1.</b> [VMLS] [Introduction to Applied Linear Algebra - Vectors, Matrices, and Least Squares, by S. Boyd and L. Vandenberghe](https://web.stanford.edu/~boyd/vmls/)
+
 <b>2.</b> [notes] [Additional notes to Applied Numerical Computing](http://www.seas.ucla.edu/~vandenbe/133A/133A-notes.pdf)
+
 <b>3.</b> [NME] Numerical Methods for Engineers, by S. Chapra, 7th ed., McGraw Hill
-
-
 
 
 * * *
 
 ## Other essential references
+
 <b>0.</b> [Introduction to Applied Linear Algebra Stanford ENGR108](https://www.youtube.com/watch?v=oR6G1MUMveE&list=PLoROMvodv4rMz-WbFQtNUsUElIh2cPmN9)
+
 <b>1.</b> [Introduction to Linear Algebra MIT 18.06](https://www.youtube.com/watch?v=7UJ4CFRGd-U&list=PLE7DDD91010BC51F8)
+
 <b>2.</b> [Matrix Methods in Data Analysis, Signal Processing, and Machine Learning MIT 18.065](https://www.youtube.com/watch?v=Cx5Z-OslNWE&list=PLUl4u3cNGP63oMNUHXqIUcrkS2PivhN3k)
+
 <b>3.</b>[Applied Numerical Computing, Prof. L. Vandenberghe, UCLA](http://www.seas.ucla.edu/~vandenbe/133A/)
+
 Applied Numerical Methods with MATLAB for Engineers and Scientists, by S. Chapra, 3rd ed., McGraw Hill.
+
 Coding the Matrix - Linear Algebra through Applications in Computer Science, by P. Klein (resources: codingthematrix.com)
-
-
-
-
 
 
 * * *
