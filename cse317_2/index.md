@@ -119,11 +119,11 @@ The objective of this course is to introduce the student computational methods r
 
 ## Reference Books
 
-<b>0.</b> Introduction to Linear Algebra, Fifth Edition (2016), by Gilbert Strang .https://math.mit.edu/~gs/linearalgebra/
+<b>0.</b> [Introduction to Linear Algebra, Fifth Edition (2016), by Gilbert Strang](https://math.mit.edu/~gs/linearalgebra/)
 
-<b>1.</b> [VMLS] Introduction to Applied Linear Algebra - Vectors, Matrices, and Least Squares, by S. Boyd and L. Vandenberghe (available at: https://web.stanford.edu/~boyd/vmls/)
+<b>1.</b> [VMLS] [Introduction to Applied Linear Algebra - Vectors, Matrices, and Least Squares, by S. Boyd and L. Vandenberghe](https://web.stanford.edu/~boyd/vmls/)
 
-<b>2.</b> [notes] Additional notes to Applied Numerical Computing, http://www.seas.ucla.edu/~vandenbe/133A/133A-notes.pdf
+<b>2.</b> [notes] [Additional notes to Applied Numerical Computing](http://www.seas.ucla.edu/~vandenbe/133A/133A-notes.pdf)
 
 <b>3.</b> [NME] Numerical Methods for Engineers, by S. Chapra, 7th ed., McGraw Hill
 
@@ -135,9 +135,7 @@ Coding the Matrix - Linear Algebra through Applications in Computer Science, by 
 
 <b>Similar course:</b> 
 
-Applied Numerical Computing, Prof. L. Vandenberghe, UCLA: http://www.seas.ucla.edu/~vandenbe/133A/
-
-
+[Applied Numerical Computing, Prof. L. Vandenberghe, UCLA](http://www.seas.ucla.edu/~vandenbe/133A/)
 
 
 * * *
