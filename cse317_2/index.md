@@ -143,9 +143,11 @@ Applied Numerical Computing, Prof. L. Vandenberghe, UCLA: http://www.seas.ucla.e
 * * *
 
 ## Other essential references
-<b>0.</b> [Introduction to Applied Linear Algebra Stanford ENGR108] (https://www.youtube.com/watch?v=oR6G1MUMveE&list=PLoROMvodv4rMz-WbFQtNUsUElIh2cPmN9)
-<b>1.</b> [Introduction to Linear Algebra MIT 18.06] (https://www.youtube.com/watch?v=7UJ4CFRGd-U&list=PLE7DDD91010BC51F8)
-<b>2.</b> [Matrix Methods in Data Analysis, Signal Processing, and Machine Learning MIT 18.065] (https://www.youtube.com/watch?v=Cx5Z-OslNWE&list=PLUl4u3cNGP63oMNUHXqIUcrkS2PivhN3k)
+<b>0.</b> [Introduction to Applied Linear Algebra Stanford ENGR108](https://www.youtube.com/watch?v=oR6G1MUMveE&list=PLoROMvodv4rMz-WbFQtNUsUElIh2cPmN9)
+
+<b>1.</b> [Introduction to Linear Algebra MIT 18.06](https://www.youtube.com/watch?v=7UJ4CFRGd-U&list=PLE7DDD91010BC51F8)
+
+<b>2.</b> [Matrix Methods in Data Analysis, Signal Processing, and Machine Learning MIT 18.065](https://www.youtube.com/watch?v=Cx5Z-OslNWE&list=PLUl4u3cNGP63oMNUHXqIUcrkS2PivhN3k)
 
 * * *
 
