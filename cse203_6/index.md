@@ -72,6 +72,8 @@ environment will force me to not evaluate your exam copies.
 |         |              | [Visual Studio Code_2ndway](https://code.visualstudio.com/?wt.mc_id=vscom_downloads)                           |
 |         |              | [Sublime Text_3rdway](https://www.sublimetext.com/)                                                            |
 | 2       | Installation | [Youtube Link](https://youtu.be/HSDYVbjF34A)                                                                   |
+| 3       | CSC 101      | [Youtube Link](https://youtu.be/Rv3on_46VYg)                                                                   |
+
 
 
 
