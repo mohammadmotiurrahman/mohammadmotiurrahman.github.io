@@ -66,11 +66,12 @@ environment will force me to not evaluate your exam copies.
 
 | Class   | Topics       | Notes                                                                                                          | 
 |:--------|:-------------|:---------------------------------------------------------------------------------------------------------------|
-| 0       | Installation | [MinGW](https://drive.google.com/file/d/1WfPqvXIQ9ImnaKR7J7J3UnXzxPoBlpZH/view)                                |
-|         |              | [Youtube Link](https://youtu.be/ELMjMr3U6JI)                                                                                               |
-|         |              | [Visual Studio Community Edition_1stway](https://visualstudio.microsoft.com/free-developer-offers/)                   |
-|         |              | [Visual Studio Code_2ndway](https://code.visualstudio.com/?wt.mc_id=vscom_downloads)                                  |
-|         |              | [Sublime Text_3rdway](https://www.sublimetext.com/)                                                                   |
+| 1       | Installation | [MinGW](https://drive.google.com/file/d/1WfPqvXIQ9ImnaKR7J7J3UnXzxPoBlpZH/view)                                |
+|         |              | [Youtube Link](https://youtu.be/ELMjMr3U6JI)                                                                   |
+|         |              | [Visual Studio Community Edition_1stway](https://visualstudio.microsoft.com/free-developer-offers/)            |
+|         |              | [Visual Studio Code_2ndway](https://code.visualstudio.com/?wt.mc_id=vscom_downloads)                           |
+|         |              | [Sublime Text_3rdway](https://www.sublimetext.com/)                                                            |
+| 2       | Installation | [Youtube Link](https://youtu.be/HSDYVbjF34A)                                                                   |
 
 
 
