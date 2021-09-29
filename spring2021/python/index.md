@@ -8,6 +8,7 @@ scheduled for that week. The tentative schedule is given below. We will be using
 the lectures. The limit of Google Meet is 100 students. The lecture will be recorded in the Youtube link. 
 Also please subscribe to the forum at [groups.io](https://groups.io/g/pythonworkshop2021)
 
+
 ### [Google Meet](https://meet.google.com/fcc-xbof-bkj)
 
 ## Lecture 1 Time: Jan 9th 2021, 7pm - 8:30pm
