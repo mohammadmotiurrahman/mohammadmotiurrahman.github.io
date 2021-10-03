@@ -75,7 +75,7 @@ environment will force me to not evaluate your exam copies.
 | 3       | CSC 101      | [Youtube Link](https://youtu.be/45K1BfaSvko)                                                                   |
 | 4       | CSC 101      | [Youtube Link](https://youtu.be/QjZAJ6zAVXA)                                                                   |
 | 5       | Recursion    | [Youtube Link](https://youtu.be/NauoGLYmQyc)                                                                   |
-|         |              | [Google Slide]()                                                                                               |
+|         |              | [Google Slide](https://jamboard.google.com/d/1I6D0uTcgcFk7ghqWAXqIVg5aQRInXu2JGMbV_9WfXdk/edit?usp=sharing)                                                                                               |
 
 
 
