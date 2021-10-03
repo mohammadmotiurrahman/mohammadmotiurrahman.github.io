@@ -73,6 +73,7 @@ environment will force me to not evaluate your exam copies.
 |         |              | [Sublime Text_3rdway](https://www.sublimetext.com/)                                                            |
 | 2       | Installation | [Youtube Link](https://youtu.be/HSDYVbjF34A)                                                                   |
 | 3       | CSC 101      | [Youtube Link](https://youtu.be/Rv3on_46VYg)                                                                   |
+| 3       | CSC 101      | [Youtube Link](https://youtu.be/t1f67MpEdlE)                                                                   |
 
 
 
