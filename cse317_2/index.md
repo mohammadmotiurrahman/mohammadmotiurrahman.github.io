@@ -107,6 +107,8 @@ The objective of this course is to introduce the student computational methods r
 |:--------|:-------------|:---------------------------------------------------------------------------------------------------------------|
 | 1       | Introduction | [Google Jamboard]()                                                                                            |
 |         |              | [Youtube Link](https://youtu.be/8t2vPziP56Q)                                                                                               |
+| 2       | Python       | [Google Jamboard]()                                                                                            |
+|         |              | [Youtube Link](https://youtu.be/iuzdZeYbHBs)                                                                                               |
 
 
 ## Slides
