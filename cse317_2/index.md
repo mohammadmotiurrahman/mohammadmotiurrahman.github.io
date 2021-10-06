@@ -106,13 +106,13 @@ The objective of this course is to introduce the student computational methods r
 | Class   | Topics       | Notes                                                                                                          | 
 |:--------|:-------------|:---------------------------------------------------------------------------------------------------------------|
 | 1       | Introduction | [Google Jamboard]()                                                                                            |
-|         |              | [Youtube Link](https://youtu.be/8t2vPziP56Q)                                                                                               |
+|         |              | [Youtube Link](https://youtu.be/8t2vPziP56Q)                                                                    |
 | 2       | Python       | [Google Jamboard]()                                                                                            |
-|         |              | [Youtube Link](https://youtu.be/iuzdZeYbHBs)                                                                                               |
+|         |              | [Youtube Link](https://youtu.be/iuzdZeYbHBs)                                                                    |
 | 3       | Python Cont  | [Google Jamboard]()                                                                                            |
-|         |              | [Youtube Link](https://youtu.be/Ox8pdtlAFok)                                                                                               |
-| 4       | Matrix Add Multiply  | [Google Jamboard]()                                                                                            |
-|         |              | [Youtube Link](https://youtu.be/T6igLP4DPk8)                                                                                               |
+|         |              | [Youtube Link](https://youtu.be/Ox8pdtlAFok)                                                                    |
+| 4       | Matrix Add Multiply  | [Google Jamboard](https://jamboard.google.com/d/1qUqCsfOmrK9Swo-NkNgNy6lFwEhlWn9vndhXyvSB3YY/edit?usp=sharing)  |
+|         |              | [Youtube Link](https://youtu.be/T6igLP4DPk8)                                                                      |
 
 
 
