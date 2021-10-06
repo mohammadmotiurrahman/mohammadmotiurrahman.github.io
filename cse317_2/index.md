@@ -111,6 +111,9 @@ The objective of this course is to introduce the student computational methods r
 |         |              | [Youtube Link](https://youtu.be/iuzdZeYbHBs)                                                                                               |
 | 3       | Python Cont  | [Google Jamboard]()                                                                                            |
 |         |              | [Youtube Link](https://youtu.be/Ox8pdtlAFok)                                                                                               |
+| 4       | Matrix Add Multiply  | [Google Jamboard]()                                                                                            |
+|         |              | [Youtube Link](https://youtu.be/T6igLP4DPk8)                                                                                               |
+
 
 
 
