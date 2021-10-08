@@ -22,6 +22,7 @@ Office Hour Time: By appointment
 * * *
 ## Class Timing
 12:30 pm to 2:00 pm Sunday
+
 11:00 am to 2:00 pm Tuesday
 
 * * *
