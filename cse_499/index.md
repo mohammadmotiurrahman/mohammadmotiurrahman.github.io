@@ -1,4 +1,4 @@
-# CSE 499 Sec 1 | Internship
+# CSE 499 Sec 6 | Internship
 
 ## Instructor
 ### Mohammad Motiur Rahman
