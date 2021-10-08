@@ -1,4 +1,4 @@
-# LFE 201 Sec 1 | LIFE FIELD EXPERIENCE
+# LFE 201 Sec 1 | LIVE FIELD EXPERIENCE
 
 ## Instructor
 ### Mohammad Motiur Rahman
