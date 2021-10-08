@@ -6,14 +6,14 @@ Email: motiur@iub.edu.bd
 * * *
 ## Unofficial Teaching Assistants
 
-### [Zulker Nayeen Nahiyan](mailto:1910063@iub.edu.bd) 
+### [Partho Protim Saha](mailto:1730016@iub.edu.bd) 
 
 [Google Meet](http://meet.google.com/rmm-fzar-yng)
 
 Office Hour Time: By appointment
 
 
-### [Suhaila Mohammed](mailto:1910496@iub.edu.bd) 
+### [Sharmin Islam](mailto:1822217@iub.edu.bd) 
 
 [Google Meet](http://meet.google.com/ooy-ozzg-dzt)
 
@@ -21,7 +21,8 @@ Office Hour Time: By appointment
 
 * * *
 ## Class Timing
-
+12:30 pm to 2:00 pm Sunday
+11:00 am to 2:00 pm Tuesday
 
 * * *
 ## Grading Scheme (Tentative)
