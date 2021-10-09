@@ -9,7 +9,7 @@ Email: motiur@iub.edu.bd
 
 | Class   | Topics       | Notes                                                                                                          | 
 |:--------|:-------------|:---------------------------------------------------------------------------------------------------------------|
-| 1       | 9th October  | [Youtube Link]()                                |
+| 1       | 9th October  | [Youtube Link](https://youtu.be/LQ81uqzHOko)                                |
 |         |              | [Google Drive Link](https://docs.google.com/spreadsheets/d/1wEtAeDb3P3jWEOukJgNAK1zclaUj-2J_kKnX10iZiQc/edit?usp=sharing)|
 
 
