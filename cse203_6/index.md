@@ -78,9 +78,10 @@ environment will force me to not evaluate your exam copies.
 | 4       | CSC 101      | [Youtube Link](https://youtu.be/t1f67MpEdlE)                                                                   |
 | 5       | CSC 101      | [Youtube Link](https://youtu.be/ySColxAPKL8)                                                                   |
 |         |              | [Google Slide](https://jamboard.google.com/d/1UGCRbymmYzD0bleCh8vIBWhSQkgU3Cy2MJHiALladMs/edit?usp=sharing )   |
-| 6       | CSC 101      | [Youtube Link](https://youtu.be/X3v3JHOmOhQ)                                                                   |
+| 6       | Recursion      | [Youtube Link](https://youtu.be/X3v3JHOmOhQ)                                                                   |
 |         |              | [Google Slide](https://jamboard.google.com/d/1UGCRbymmYzD0bleCh8vIBWhSQkgU3Cy2MJHiALladMs/edit?usp=sharing )   |
-
+| 7       | Recursion, File      | [Youtube Link](https://youtu.be/GGbnEyklEGM)                                                                   |
+|         |              | [Google Slide]()   |
 
 ## Slides
 
