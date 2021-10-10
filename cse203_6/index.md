@@ -81,7 +81,7 @@ environment will force me to not evaluate your exam copies.
 | 6       | Recursion      | [Youtube Link](https://youtu.be/X3v3JHOmOhQ)                                                                   |
 |         |              | [Google Slide](https://jamboard.google.com/d/1UGCRbymmYzD0bleCh8vIBWhSQkgU3Cy2MJHiALladMs/edit?usp=sharing )   |
 | 7       | Recursion, File      | [Youtube Link](https://youtu.be/GGbnEyklEGM)                                                                   |
-|         |              | [Google Slide]()   |
+|         |              | [Google Slide](https://jamboard.google.com/d/1Bk1cCxn5U6XdXD2N1dK_H1u-KVvWutG-DTRPN5UippQ/edit?usp=sharing)   |
 
 ## Slides
 
