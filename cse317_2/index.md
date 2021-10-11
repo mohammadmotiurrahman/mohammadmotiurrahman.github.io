@@ -129,9 +129,10 @@ The objective of this course is to introduce the student computational methods r
 
 ## Google Colab
 
-| Lecture code in C++                               |                                                |
-|:--------------------------------------------------|:-----------------------------------------------|
-| [Lecture 1]()    | [Lecture 2]() |
+| Lecture code in C++                               |                                                
+|:--------------------------------------------------|
+| [Lecture 1](https://colab.research.google.com/github/mohammadmotiurrahman/mohammadmotiurrahman.github.io/blob/main/cse317_2/monday.ipynb) | 
+| [Lecture 2]()|
 
 
 ## Reference Books
