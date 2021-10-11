@@ -124,7 +124,7 @@ The objective of this course is to introduce the student computational methods r
 
 | [Lecture Slides in PDF](https://github.com/mohammadmotiurrahman/mohammadmotiurrahman.github.io/tree/main/cse317_2/slides)  |                             
 |:----------------------------------------------|
-| [Lecture 0](/)    |
+| [Chapter 1](/)    |
 
 
 ## Google Colab
