@@ -113,7 +113,7 @@ The objective of this course is to introduce the student computational methods r
 |         |              | [Youtube Link](https://youtu.be/Ox8pdtlAFok)                                                                    |
 | 4       | Matrix Add Multiply  | [Google Jamboard](https://jamboard.google.com/d/1qUqCsfOmrK9Swo-NkNgNy6lFwEhlWn9vndhXyvSB3YY/edit?usp=sharing)  |
 |         |              | [Youtube Link](https://youtu.be/T6igLP4DPk8)                                                                      |
-| 5       | Ax = b       | [Google Jamboard]()  |
+| 5       | Ax = b       | [Google Jamboard](https://jamboard.google.com/d/1t0rtGV5oL-m8wHdq4agcK6sz9A9xCc3CWs-NbSmvlE4/edit?usp=sharing)  |
 |         |              | [Another Applied Linear Algebra Book](http://phys.uri.edu/nigh/NumRec/)  |
 |         |              | [Youtube Link](https://youtu.be/MIZEAP3RvYs)                                                                      |
 
