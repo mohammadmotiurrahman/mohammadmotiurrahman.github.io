@@ -84,6 +84,8 @@ environment will force me to not evaluate your exam copies.
 |         |              | [Google Slide](https://jamboard.google.com/d/1Bk1cCxn5U6XdXD2N1dK_H1u-KVvWutG-DTRPN5UippQ/edit?usp=sharing)   |
 | 8       | File, Memory      | [Youtube Link](https://youtu.be/rOhULO8QKX0)                                                                   |
 |         |              | [Google Slide]()   |
+| 9       | File, Memory      | [Youtube Link](https://youtu.be/rdj74do9gew)                                                                   |
+|         |              | [Google Slide]()   |
 
 
 ## Slides
