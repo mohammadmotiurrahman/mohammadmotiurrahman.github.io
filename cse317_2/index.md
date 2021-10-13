@@ -134,8 +134,8 @@ The objective of this course is to introduce the student computational methods r
 
 | Lecture code in C++                               |                                                
 |:--------------------------------------------------|
-| [Lecture 1](https://colab.research.google.com/github/mohammadmotiurrahman/mohammadmotiurrahman.github.io/blob/main/cse317_2/monday.ipynb) | 
-| [Lecture 2]()|
+| [Python](https://colab.research.google.com/github/mohammadmotiurrahman/mohammadmotiurrahman.github.io/blob/main/cse317_2/monday.ipynb) | 
+| [Numpy ....](https://colab.research.google.com/github/mohammadmotiurrahman/mohammadmotiurrahman.github.io/blob/main/cse317_2/linear_algebra.ipynb)|
 
 
 ## Reference Books
