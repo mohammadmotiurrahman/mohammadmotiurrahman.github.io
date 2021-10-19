@@ -78,16 +78,18 @@ environment will force me to not evaluate your exam copies.
 | 4       | CSC 101      | [Youtube Link](https://youtu.be/t1f67MpEdlE)                                                                   |
 | 5       | CSC 101      | [Youtube Link](https://youtu.be/ySColxAPKL8)                                                                   |
 |         |              | [Google Slide](https://jamboard.google.com/d/1UGCRbymmYzD0bleCh8vIBWhSQkgU3Cy2MJHiALladMs/edit?usp=sharing )   |
-| 6       | Recursion      | [Youtube Link](https://youtu.be/X3v3JHOmOhQ)                                                                   |
+| 6       | Recursion      | [Youtube Link](https://youtu.be/X3v3JHOmOhQ)                                                                 |
 |         |              | [Google Slide](https://jamboard.google.com/d/1UGCRbymmYzD0bleCh8vIBWhSQkgU3Cy2MJHiALladMs/edit?usp=sharing )   |
-| 7       | Recursion, File      | [Youtube Link](https://youtu.be/GGbnEyklEGM)                                                                   |
-|         |              | [Google Slide](https://jamboard.google.com/d/1Bk1cCxn5U6XdXD2N1dK_H1u-KVvWutG-DTRPN5UippQ/edit?usp=sharing)   |
-| 8       | File, Memory      | [Youtube Link](https://youtu.be/rOhULO8QKX0)                                                                   |
+| 7       | Recursion, File      | [Youtube Link](https://youtu.be/GGbnEyklEGM)                                                           |
+|         |              | [Google Slide](https://jamboard.google.com/d/1Bk1cCxn5U6XdXD2N1dK_H1u-KVvWutG-DTRPN5UippQ/edit?usp=sharing)    |
+| 8       | File, Memory      | [Youtube Link](https://youtu.be/rOhULO8QKX0)                                                              |
 |         |              | [Google Slide]()   |
-| 9       | File, Memory      | [Youtube Link](https://youtu.be/rdj74do9gew)                                                                   |
+| 9       | File, Memory      | [Youtube Link](https://youtu.be/rdj74do9gew)                                                              |
 |         |              | [Google Slide]()   |
 | 10       | Memory      | [Youtube Link](https://youtu.be/_fsjGZLh9Bw)                                                                   |
-|         |              | [Google Slide](https://jamboard.google.com/d/1nBFGaQw-s2UvkTyFDHC8cMtWjyrdx9w29ilIBEPQkeE/edit?usp=sharing)   |
+|         |              | [Google Slide](https://jamboard.google.com/d/1nBFGaQw-s2UvkTyFDHC8cMtWjyrdx9w29ilIBEPQkeE/edit?usp=sharing)    |
+| 11       | Memory      | [Youtube Link](https://youtu.be/txRoTTCLSzI)                                                                   |
+|         |              | [Google Slide]()    |
 
 
 
