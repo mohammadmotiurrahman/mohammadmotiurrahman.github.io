@@ -91,7 +91,7 @@ environment will force me to not evaluate your exam copies.
 | 11      | Memory       | [Youtube Link](https://youtu.be/mBeyRyaFMeQ)                                                                   |
 |         |              | [Google Slide](https://jamboard.google.com/d/1mFvsmypsxm31oZUG3QbWoJfD-MBXB40t2_Wo8tCqf_8/edit?usp=sharing)    |
 | 12      | Memory       | [Youtube Link](https://youtu.be/mNdnR3pQqzc)                                                                   |
-|         |              | [Google Slide]()                                                                                               |
+|         |              | [Google Slide](https://jamboard.google.com/d/16Y0lj2TTqyXgMQu9bnS0jheG9Af5WJxiHTKJwHEkd0w/edit?usp=sharing)    |
 
 
 
