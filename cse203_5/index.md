@@ -80,18 +80,18 @@ environment will force me to not evaluate your exam copies.
 |         |              | [Google Slide](https://jamboard.google.com/d/1I6D0uTcgcFk7ghqWAXqIVg5aQRInXu2JGMbV_9WfXdk/edit?usp=sharing)    |
 | 6       | Recursion    | [Youtube Link](https://youtu.be/PCOx0JejTuI)                                                                   |
 |         |              | [Google Slide]()                                                                                               |
-| 7       | Recursion, File    | [Youtube Link](https://youtu.be/_PBTlRAzif4)                                                                   |
+| 7       | Recursion, File | [Youtube Link](https://youtu.be/_PBTlRAzif4)                                                                |
 |         |              | [Google Slide](https://jamboard.google.com/d/1ehSeAOZyXbMl-EKcrrl1g58TPu1BfPkROoCQ_8jMtpk/edit?usp=sharing)    |
-| 8       | Recursion, File    | [Youtube Link](https://youtu.be/vXWCFqUMEeA)                                                                   |
+| 8       | Recursion, File| [Youtube Link](https://youtu.be/vXWCFqUMEeA)                                                                 |
 |         |              | [Google Slide]()                                                                                               |
-| 9       | File, Memory    | [Youtube Link](https://youtu.be/7Khv4MGI5O8)                                                                   |
+| 9       | File, Memory | [Youtube Link](https://youtu.be/7Khv4MGI5O8)                                                                   |
 |         |              | [Google Slide]()                                                                                               |
-| 10      | Memory    | [Youtube Link](https://youtu.be/BU51Ck91SkQ)                                                                   |
+| 10      | Memory       | [Youtube Link](https://youtu.be/BU51Ck91SkQ)                                                                   |
 |         |              | [Google Slide]()                                                                                               |
-| 11      | Memory    | [Youtube Link](https://youtu.be/mBeyRyaFMeQ)                                                                   |
-|         |              | [Google Slide](https://jamboard.google.com/d/1mFvsmypsxm31oZUG3QbWoJfD-MBXB40t2_Wo8tCqf_8/edit?usp=sharing)  |
-| 12      | Memory    | [Youtube Link](https://youtu.be/mNdnR3pQqzc)                                                                   |
-|         |              | [Google Slide]()  |
+| 11      | Memory       | [Youtube Link](https://youtu.be/mBeyRyaFMeQ)                                                                   |
+|         |              | [Google Slide](https://jamboard.google.com/d/1mFvsmypsxm31oZUG3QbWoJfD-MBXB40t2_Wo8tCqf_8/edit?usp=sharing)    |
+| 12      | Memory       | [Youtube Link](https://youtu.be/mNdnR3pQqzc)                                                                   |
+|         |              | [Google Slide]()                                                                                               |
 
 
 
