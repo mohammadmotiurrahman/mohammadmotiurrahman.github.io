@@ -121,6 +121,8 @@ The objective of this course is to introduce the student computational methods r
 |         |              | [Google Jamboard](https://jamboard.google.com/d/1KqmfE0mfoz355-2am-xsVBi8fHwFIbaHijmWV5y4PsY/edit?usp=sharing)   |
 | 7       | Ax = b Cont. | [Google Jamboard](https://jamboard.google.com/d/1jFWTpaUwABMGV6-g_9aGQnkZOCbTyxrtauNeZg3PWa8/edit?usp=sharing)  |
 |         |              | [Youtube Link](https://youtu.be/alAe7EEDC9k)                                                                      |
+| 8       | Ax = b Cont. | [Google Jamboard]()  |
+|         |              | [Youtube Link](https://youtu.be/B4U8U8JQb8U)                                                                      |
 
 
 ## Slides
