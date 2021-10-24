@@ -92,6 +92,8 @@ environment will force me to not evaluate your exam copies.
 |         |              | [Google Slide]()    |
 | 12       | Memory      | [Youtube Link](https://youtu.be/_Gm35Pa8Yg8)                                                                   |
 |         |              | [Google Slide](https://jamboard.google.com/d/1gGy4waiGr_SMuyzDysiUoerzOEuCWQ_Cf_Qvoo4nf2c/edit?usp=sharing)    |
+| 13       | Function & Memory | [Youtube Link](https://drive.google.com/file/d/1SS-AATOpcIn1ufQW4fKNQTuIBBUrmQN5/view?usp=sharing)       |
+|         |              | [Google Slide](https://jamboard.google.com/d/1fdk3MSLLk-tQNJBhxysM79ljVLW-N4ciybzFAJOYZBc/edit?usp=sharing)    |
 
 
 
