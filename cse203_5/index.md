@@ -96,11 +96,8 @@ environment will force me to not evaluate your exam copies.
 |         |              | [Google Slide](https://jamboard.google.com/d/1zosBLXddutb-StReRZY1YgNmaRsFI-k1mmUoxtnnGJI/edit?usp=sharing)    |
 | 14      | Functions & Memory | [Youtube Link](https://drive.google.com/file/d/1O43bV-G4pPOHn-IVCbyLAVQHiIWiTOn2/view?usp=sharing)       |
 |         |              | [Google Slide](https://jamboard.google.com/d/1zosBLXddutb-StReRZY1YgNmaRsFI-k1mmUoxtnnGJI/edit?usp=sharing)    |
-| 15      | Dynamic Memory | [Youtube Link](https://drive.google.com/file/d/1BJpt77gLBN4agnUdhrHMM4lBEobMpxdn/view?usp=sharing)       |
-|         |              | [Google Slide](https://jamboard.google.com/d/1zBaSsyq-JtmGYIGA3EIdvPODprwDff9ZnOf8QBN4wkU/edit?usp=sharing)    |
-| 16      | Dynamic Memory | [Youtube Link](https://drive.google.com/file/d/1PQseZI3TtGhe1PDfhjNvcNeibrLaBbLw/view?usp=sharing)       |
-|         |              | [Google Slide](https://jamboard.google.com/d/1zBaSsyq-JtmGYIGA3EIdvPODprwDff9ZnOf8QBN4wkU/edit?usp=sharing)    |
-
+| 15      | Dynamic Memory | [Youtube Link](https://drive.google.com/file/d/1YqiPZY5NmpAixzFIqtLcTaeGySYL3rQQ/view?usp=sharing)       |
+|         |              | [Google Slide](https://jamboard.google.com/d/1JJlm1j506u1r_h3Dw4-5uS-Wb6B5xkycixIvjfWh9Co/edit?usp=sharing)    |
 
 
 ## Slides
