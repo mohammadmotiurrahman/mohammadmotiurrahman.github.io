@@ -15,6 +15,7 @@ Email: motiur@iub.edu.bd
 |         |              |[Slides](https://docs.google.com/presentation/d/1tsTYrY7KIQa_ZDXanrWPv2LVNIgi4I5TJ3x6KnxWcHs/edit?usp=sharing) |
 | 3       | 23rd October | [Youtube Link](https://drive.google.com/file/d/16WVBpDFEXWWjCH_-DXxKcsUqolzSptPQ/view?usp=sharing)                                |
 |         |              | [Slides](https://docs.google.com/presentation/d/1WPrLrQnoHijvch5EARdN5r2odEsJdglhCslieOuqN-o/edit?usp=sharing)|
+| 4       | 30th October | [Slides](https://docs.google.com/presentation/d/1TcKlOO1wRJwA4z-skLnyYqRWrd7MJ3NHYeMU2naqfYM/edit?usp=sharing)|
 
 
 * * *
