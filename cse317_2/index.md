@@ -125,6 +125,8 @@ The objective of this course is to introduce the student computational methods r
 |         |              | [Youtube Link](https://youtu.be/B4U8U8JQb8U)                                                                      |
 | 9       | Ax != b      | [Google Jamboard](https://jamboard.google.com/d/1s8ZbzvRGL7x0b99pjThaIlIOzSy3eKJXWM3qTQDWN70/edit?usp=sharing)  |
 |         |              | [Youtube Link](https://drive.google.com/file/d/1kTJ8YMHx7wRjynpB-vvmbsbZMPbVhk8W/view?usp=sharing)              |
+| 10       | Ax = 0 Example      | [Google Jamboard](https://jamboard.google.com/d/197oPGbNncYYJxHiaMteHXmk7DUMqP1wvqZOu4Vb0EdU/edit?usp=sharing)  |
+|         |              | [Youtube Link](https://drive.google.com/file/d/1iWBIuHlP_zfM03HteB93f-rZkRkHvEKP/view?usp=sharing)              |
 
 
 ## Slides
