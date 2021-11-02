@@ -98,6 +98,8 @@ environment will force me to not evaluate your exam copies.
 |         |              | [Google Slide](https://jamboard.google.com/d/1zBaSsyq-JtmGYIGA3EIdvPODprwDff9ZnOf8QBN4wkU/edit?usp=sharing)    |
 | 15      | Dynamic Memory | [Youtube Link](https://drive.google.com/file/d/1PQseZI3TtGhe1PDfhjNvcNeibrLaBbLw/view?usp=sharing)       |
 |         |              | [Google Slide](https://jamboard.google.com/d/1zBaSsyq-JtmGYIGA3EIdvPODprwDff9ZnOf8QBN4wkU/edit?usp=sharing)    |
+| 16      | Dynamic Memory | [Youtube Link](https://drive.google.com/file/d/1dM_Vl-6L5qjAWZtxJGvaVYxN98LSUNnf/view?usp=sharing)       |
+|         |              | [Google Slide](https://jamboard.google.com/d/1kJ_PMaB-9ScS2iWNUqg1y4lV8NL30jscl0sUwVAzLQA/edit?usp=sharing)    |
 
 
 
