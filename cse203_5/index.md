@@ -98,6 +98,10 @@ environment will force me to not evaluate your exam copies.
 |         |              | [Google Slide](https://jamboard.google.com/d/1zosBLXddutb-StReRZY1YgNmaRsFI-k1mmUoxtnnGJI/edit?usp=sharing)    |
 | 15      | Dynamic Memory | [Youtube Link](https://drive.google.com/file/d/1YqiPZY5NmpAixzFIqtLcTaeGySYL3rQQ/view?usp=sharing)       |
 |         |              | [Google Slide](https://jamboard.google.com/d/1JJlm1j506u1r_h3Dw4-5uS-Wb6B5xkycixIvjfWh9Co/edit?usp=sharing)    |
+| 16      | Dynamic Memory | [Youtube Link](https://drive.google.com/file/d/1c5SA-MunWZgNe8yW3jv-TQC3ZWboaJrB/view?usp=sharing)       |
+|         |              | [Google Slide](https://jamboard.google.com/d/1lRmnMJLDE7VlWAJFH1hp3Q6bOrm5RTng0_34WxBL8z0/edit?usp=sharing)    |
+| 17      | 2d array Dynamic Memory | [Youtube Link](https://drive.google.com/file/d/1JFYcC65Mz8mXDXl7YgN_V4g-xuR67_iy/view?usp=sharing)       |
+|         |              | [Google Slide](https://jamboard.google.com/d/1lRmnMJLDE7VlWAJFH1hp3Q6bOrm5RTng0_34WxBL8z0/edit?usp=sharing)    |
 
 
 ## Slides
