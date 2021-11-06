@@ -102,7 +102,11 @@ environment will force me to not evaluate your exam copies.
 |         |              | [Google Slide](https://jamboard.google.com/d/1lRmnMJLDE7VlWAJFH1hp3Q6bOrm5RTng0_34WxBL8z0/edit?usp=sharing)    |
 | 17      | 2d array Dynamic Memory | [Youtube Link](https://drive.google.com/file/d/1JFYcC65Mz8mXDXl7YgN_V4g-xuR67_iy/view?usp=sharing)       |
 |         |              | [Google Slide](https://jamboard.google.com/d/1lRmnMJLDE7VlWAJFH1hp3Q6bOrm5RTng0_34WxBL8z0/edit?usp=sharing)    |
+| 18      | Struct | [Youtube Link](https://drive.google.com/file/d/1UKvexu1AKgwaK-ROALpKUUVr5HZKVJED/view?usp=sharing)       |
+|         |              | [Google Slide]()    |
 
+
+##
 
 ## Slides
 
