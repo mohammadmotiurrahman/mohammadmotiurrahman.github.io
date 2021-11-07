@@ -131,7 +131,7 @@ The objective of this course is to introduce the student computational methods r
 |         |              | [Youtube Link](https://drive.google.com/file/d/1T58aqo0DtGo5bnx5oAAJJRVJ1XFbnody/view?usp=sharing)              |
 
 
-(All of the future videos are in this link , please look for the videos according to the timeline)[https://drive.google.com/file/d/18ep3nryis7Oyy_MsCG8_xHEB_YOR8Uel/view?usp=sharing)
+(All of the future videos are in this link , please look for the videos according to the timeline)[https://drive.google.com/file/d/18ep3nryis7Oyy_MsCG8_xHEB_YOR8Uel/view?usp=sharing]
 
 ## Slides
 
