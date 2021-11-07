@@ -104,7 +104,7 @@ environment will force me to not evaluate your exam copies.
 |         |              | [Google Slide](https://jamboard.google.com/d/1lRmnMJLDE7VlWAJFH1hp3Q6bOrm5RTng0_34WxBL8z0/edit?usp=sharing)    |
 | 18      | Struct | [Youtube Link](https://drive.google.com/file/d/1UKvexu1AKgwaK-ROALpKUUVr5HZKVJED/view?usp=sharing)       |
 |         |              | [Google Slide]()    |
-
+(All of the future videos are in this link , please look for the videos according to the timeline)[https://drive.google.com/file/d/18ep3nryis7Oyy_MsCG8_xHEB_YOR8Uel/view?usp=sharing]
 
 ##
 
