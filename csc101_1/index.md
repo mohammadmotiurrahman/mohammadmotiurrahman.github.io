@@ -1,4 +1,4 @@
-# CSE 203 Sec 5 | Data Structure
+# CSC 101 Sec 1 | Data Structure
 
 ## Instructor
 ### Mohammad Motiur Rahman
@@ -6,18 +6,27 @@ Email: motiur@iub.edu.bd
 * * *
 ## Unofficial Teaching Assistants
 
-### [Partho Protim Saha](mailto:1730016@iub.edu.bd) 
+### [Jannat Un Nayeem ](mailto:2030087@iub.edu.bd ) 
 
 [Google Meet](http://meet.google.com/rmm-fzar-yng)
 
 Office Hour Time: By appointment
 
 
-### [Sharmin Islam](mailto:1822217@iub.edu.bd) 
+### [Suhaila](mailto:1910496@iub.edu.bd ) 
 
 [Google Meet](http://meet.google.com/ooy-ozzg-dzt)
 
 Office Hour Time: By appointment 
+
+
+### [Saiyara Raquib Oishy](mailto:1930931@iub.edu.bd ) 
+
+[Google Meet](http://meet.google.com/axk-ysgi-vht)
+
+Office Hour Time: By appointment 
+
+
 
 * * *
 ## Class Timing
