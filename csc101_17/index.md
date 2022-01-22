@@ -1,4 +1,4 @@
-# CSC 101 Sec 17 | Data Structure
+# CSC 101 Sec 17 | Introduction to Computer Science
 
 ## Instructor
 ### Mohammad Motiur Rahman
