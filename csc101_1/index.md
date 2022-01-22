@@ -30,9 +30,9 @@ Office Hour Time: By appointment
 
 * * *
 ## Class Timing
-9:30 am to 12:30 pm Sunday
+ST: 0800-0930
 
-9:30 am to 11:00 am Tuesday
+S: 0940-1110
 
 * * *
 ## Grading Scheme (Tentative)
