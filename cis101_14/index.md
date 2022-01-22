@@ -1,4 +1,4 @@
-# CIS 101 Sec 14 | Data Structure
+# CIS 101 Sec 14 | 
 
 ## Instructor
 ### Mohammad Motiur Rahman
