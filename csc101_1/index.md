@@ -12,6 +12,14 @@ Email: motiur@iub.edu.bd
 
 Office Hour Time: By appointment
 
+
+### [Maha Murshed ](mailto:2030385@iub.edu.bd  ) 
+
+[Google Meet](http://meet.google.com/ftz-zztp-hji)
+
+Office Hour Time: By appointment
+
+
 ### [Jannat Un Nayeem ](mailto:2030087@iub.edu.bd ) 
 
 [Google Meet](http://meet.google.com/rmm-fzar-yng)
