@@ -7,7 +7,7 @@
 # [Chapter 5](https://github.com/mohammadmotiurrahman/mohammadmotiurrahman.github.io/blob/main/cse203py/PythonCSE203Chapter5.ipynb)
 # [Chapter 6](https://github.com/mohammadmotiurrahman/mohammadmotiurrahman.github.io/blob/main/cse203py/PythonCSE203Chapter6.ipynb)
 
-## Note if you want to contribute , send me an email
+## Note if you want to contribute in improving the notes, send me an email.
 
 * * *
 
