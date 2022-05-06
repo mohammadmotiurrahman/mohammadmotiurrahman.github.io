@@ -4,6 +4,7 @@
 # [CIS 101 Sec 14](https://mohammadmotiurrahman.github.io/cis101_14)
 # [CSE 499 Sec 6](https://mohammadmotiurrahman.github.io/CSE499)
 # [Autumn 2021](https://mohammadmotiurrahman.github.io/autumn2021)
+# [CSE 203 in Python](https://mohammadmotiurrahman.github.io/cse203py)
 
 * * *
 
