@@ -1,1 +1,1 @@
-CSC 101 Section 14 Summer 2022
+CSC 101 Section 14 - Summer 2022
