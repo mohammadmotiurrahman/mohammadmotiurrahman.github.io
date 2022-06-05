@@ -1,4 +1,4 @@
-# CSC 101 Sec 1 | Introduction to Computer Science  
+# CSC 101 Sec 14 | Introduction to Computer Programming  
 
 ## Instructor
 ### Mohammad Motiur Rahman
@@ -27,7 +27,7 @@ Office Hour Time: By appointment
 Office Hour Time: By appointment
 
 
-### [Suhaila](mailto:1910496@iub.edu.bd ) 
+### [Sharmin Islam](mailto:1822217@iub.edu.bd  ) 
 
 [Google Meet](http://meet.google.com/ooy-ozzg-dzt)
 
@@ -40,6 +40,12 @@ Office Hour Time: By appointment
 
 Office Hour Time: By appointment 
 
+
+### [Shoban Bhowmik](mailto:1930533@iub.edu.bd ) 
+
+[Google Meet](meet.google.com/trr-ysdk-bta)
+
+Office Hour Time: By appointment 
 
 
 * * *
