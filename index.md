@@ -2,7 +2,7 @@
 # [CSC 101 Sec 14](https://mohammadmotiurrahman.github.io/csc101_14)
 # [CSC 101 Sec 15](https://mohammadmotiurrahman.github.io/csc101_15)
 # [CSE 499 ](https://mohammadmotiurrahman.github.io/CSE499)
-# [Autumn 2021](https://mohammadmotiurrahman.github.io/spring2022)
+# [Spring 2022](https://mohammadmotiurrahman.github.io/spring2022)
 
 * * *
 
