@@ -1,4 +1,4 @@
-# CSC 101 Sec 1 | Introduction to Computer Science  
+# CSC 101 Sec 6 | Introduction to Computer Science  
 
 ## Instructor
 ### Mohammad Motiur Rahman
