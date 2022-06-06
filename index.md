@@ -6,7 +6,7 @@
 
 
 * * *
-[Slack Group for CSC 101 Summer 2022](https://csc101summer22.slack.com/)
+# [Slack Group for CSC 101 Summer 2022](https://csc101summer22.slack.com/)
 * * *
 
 [email](mailto:mohammadmotiurrahman@gmail.com)
