@@ -50,19 +50,15 @@ Office Hour Time: By appointment
 
 * * *
 ## Class Timing
-ST: 0800-0930
+Monday 11:20 - 12:50
 
-S: 0940-1110
+Wedneday 09:40 - 12:50
 
 * * *
 ## Grading Scheme (Tentative)
-Assignments - 10 marks
 
-Quiz - 20 marks
+Consult the outline
 
-Midterm Exam - 30 marks
-
-Final Exam - 40 marks
 * * *
 ## Code of conduct
 Plagiarism will absolutely not be tolerated.
