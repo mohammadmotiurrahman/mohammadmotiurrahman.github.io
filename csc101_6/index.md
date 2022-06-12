@@ -50,7 +50,7 @@ Office Hour Time: By appointment
 
 * * *
 ## Class Timing
-Sunday/Tuesday 11:10 - 12:50
+Tuesday 11:10 - 12:50
 
 Sunday 09:40-12:50
 
