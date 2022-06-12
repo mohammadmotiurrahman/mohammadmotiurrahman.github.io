@@ -56,13 +56,9 @@ Sunday 09:40-12:50
 
 * * *
 ## Grading Scheme (Tentative)
-Assignments - 10 marks
 
-Quiz - 20 marks
+Consult the course outline
 
-Midterm Exam - 30 marks
-
-Final Exam - 40 marks
 * * *
 ## Code of conduct
 Plagiarism will absolutely not be tolerated.
