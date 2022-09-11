@@ -1,9 +1,11 @@
-# [CSC 101 Sec 6](https://mohammadmotiurrahman.github.io/csc101_6)
-# [CSC 101 Sec 14](https://mohammadmotiurrahman.github.io/csc101_14)
-# [CSC 101 Sec 15](https://mohammadmotiurrahman.github.io/csc101_15)
+# [CSE 203 Sec 8](https://mohammadmotiurrahman.github.io/cse203_8)
+# [CSE 211 Sec 5](https://mohammadmotiurrahman.github.io/cse211_5)
+# [CSE 317 Sec 3](https://mohammadmotiurrahman.github.io/cse317_3)
 
 * * *
-# [CSC 101 Slack Group](https://csc101summer22.slack.com/)
+# [CSE 203 Slack Group](https://csc101summer22.slack.com/)
+# [CSE 211 Slack Group](https://csc101summer22.slack.com/)
+# [CSE 317 Slack Group](https://csc101summer22.slack.com/)
 * * *
 
 # [CSE 499 ](https://mohammadmotiurrahman.github.io/CSE499)
