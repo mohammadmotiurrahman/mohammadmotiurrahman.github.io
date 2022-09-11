@@ -1,4 +1,4 @@
-# CSC 101 Sec 15 | Introduction to Computer Programming  
+# CSC 317 | Sec 3 Introduction to Computer Programming  
 
 ## Instructor
 ### Mohammad Motiur Rahman
