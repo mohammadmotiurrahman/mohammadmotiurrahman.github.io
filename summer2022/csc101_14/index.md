@@ -6,21 +6,21 @@ Email: motiur@iub.edu.bd
 * * *
 ## Unofficial Teaching Assistants
 
-### [Partho Protim Saha ](mailto:1730016@iub.edu.bd  ) 
+### [Partho Protim Saha ](mailto:1730016@iub.edu.bd) 
 
 [Google Meet](http://meet.google.com/mrg-sjkp-ooa)
 
 Office Hour Time: By appointment
 
 
-### [Maha Murshed ](mailto:2030385@iub.edu.bd  ) 
+### [Maha Murshed ](mailto:2030385@iub.edu.bd) 
 
 [Google Meet](http://meet.google.com/ftz-zztp-hji)
 
 Office Hour Time: By appointment
 
 
-### [Jannat Un Nayeem ](mailto:2030087@iub.edu.bd ) 
+### [Jannat Un Nayeem ](mailto:2030087@iub.edu.bd) 
 
 [Google Meet](http://meet.google.com/rmm-fzar-yng)
 
