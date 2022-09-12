@@ -3,9 +3,9 @@
 # [CSE 317 Sec 3](https://mohammadmotiurrahman.github.io/cse317_3)
 
 * * *
-# [CSE 203 Slack Group](https://csc101summer22.slack.com/)
-# [CSE 211 Slack Group](https://csc101summer22.slack.com/)
-# [CSE 317 Slack Group](https://csc101summer22.slack.com/)
+# [CSE 203 Slack Group](https://cse203autumn22.slack.com/)
+# [CSE 211 Slack Group](https://cse211autumn22.slack.com/)
+# [CSE 317 Slack Group](https://cse317autumn22.slack.com/)
 * * *
 
 # [CSE 499 ](https://mohammadmotiurrahman.github.io/CSE499)
