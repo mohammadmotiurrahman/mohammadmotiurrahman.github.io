@@ -38,9 +38,7 @@ Office Hour Time: By appointment
 * * *
 ## Class Timing
 
-MOnday  1:00 - 4:10
 
-Wednesday 1:00 - 2:30
 
 * * *
 ## Grading Scheme (Tentative)
