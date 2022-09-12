@@ -1,4 +1,4 @@
-# CSE 203 | Sec 8 Introduction to Data Structure  
+# CSE 203 | Sec 8 Data Structure  
 
 ## Instructor
 ### Mohammad Motiur Rahman
