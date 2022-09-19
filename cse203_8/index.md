@@ -34,6 +34,10 @@ Office Hour Time: By appointment
 
 Office Hour Time: By appointment 
 
+* * *
+
+[Introduction](https://docs.google.com/presentation/d/1BeWLuxuX2yREbHlYiahApuTAQoqZfGy9sN42g2HqjnM/edit?usp=sharing)
+
 
 * * *
 ## Class Timing
