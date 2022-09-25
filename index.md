@@ -1,5 +1,12 @@
-# [CSE 203 Sec 8](https://mohammadmotiurrahman.github.io/cse203_8)
+# [Data Structure Sec 8L Theory](https://mohammadmotiurrahman.github.io/cse203_8L)
+# [Data Structure Sec 13L Theory](https://mohammadmotiurrahman.github.io/cse203_13L)
+# [Data Structure Sec 16L Theory](https://mohammadmotiurrahman.github.io/cse203_16L)
+
+# [Data Structure Sec 13 Theory](https://mohammadmotiurrahman.github.io/cse203_8)
+# [Data Structure Sec 16 Theory](https://mohammadmotiurrahman.github.io/cse203_16)
+
 # [Algorithms Sec 2](https://mohammadmotiurrahman.github.io/cse211_2)
+
 
 * * *
 # [CSE 203 Slack Group](https://cse203autumn22.slack.com/)
