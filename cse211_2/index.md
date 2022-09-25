@@ -39,7 +39,8 @@ Office Hour Time: By appointment
 
 ## Lectures
 
-### [Class 1 Introduction](https://docs.google.com/presentation/d/1YQIYQnvXnlkiia6zMUk-cc0ZF_SGymxL5m0YtfhgM6Q/edit?usp=sharing)
+### [Lecture 0 Introduction](https://docs.google.com/presentation/d/122dASDvKv-0vbwAWQUJcUTDo6oysnvg4nAyLGaV0ABA/edit?usp=sharing)
+
 * * *
 ## Class Timing
 
