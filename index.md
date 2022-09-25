@@ -13,7 +13,7 @@
 * * *
 # [CSE 203 Slack Group](https://cse203autumn22.slack.com/)
 # [CSE 211 Slack Group](https://cse211autumn22.slack.com/)
-# [CSE 317 Slack Group](https://cse317autumn22.slack.com/)
+
 * * *
 
 # [CSE 499 ](https://mohammadmotiurrahman.github.io/CSE499)
