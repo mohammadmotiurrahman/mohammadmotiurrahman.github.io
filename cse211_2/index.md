@@ -1,4 +1,4 @@
-# CSE 211 | Sec 2 Algorithms 
+# CSE211,CSC306,CEN306,MAT306 | Sec 2 Algorithms 
 
 ## Instructor
 ### Mohammad Motiur Rahman
