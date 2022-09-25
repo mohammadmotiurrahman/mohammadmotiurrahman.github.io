@@ -1,5 +1,5 @@
 
-# [Data Structure Sec 13 Theory](https://mohammadmotiurrahman.github.io/cse203_8)
+# [Data Structure Sec 13 Theory](https://mohammadmotiurrahman.github.io/cse203_13)
 # [Data Structure Sec 16 Theory](https://mohammadmotiurrahman.github.io/cse203_16)
 
 # [Data Structure Sec 8 Lab](https://mohammadmotiurrahman.github.io/cse203_8L)
