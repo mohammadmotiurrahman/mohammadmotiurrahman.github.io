@@ -17,7 +17,7 @@
 * * *
 
 # [CSE 499 ](https://mohammadmotiurrahman.github.io/CSE499)
-# [Spring 2022](https://mohammadmotiurrahman.github.io/spring2022)
+# [Summer 2022](https://mohammadmotiurrahman.github.io/summer2022)
 
 * * *
 
