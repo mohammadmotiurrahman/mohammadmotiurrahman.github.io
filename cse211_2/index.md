@@ -37,7 +37,7 @@ Office Hour Time: By appointment
 * * * 
 ### [Google Drive Link](https://drive.google.com/drive/folders/1K3MD1XFtCfr700KjvasbbBVfn21gmRCg?usp=sharing)
 
-### [Introduction](https://docs.google.com/presentation/d/1YQIYQnvXnlkiia6zMUk-cc0ZF_SGymxL5m0YtfhgM6Q/edit?usp=sharing)
+### [Class 1 Introduction](https://docs.google.com/presentation/d/1YQIYQnvXnlkiia6zMUk-cc0ZF_SGymxL5m0YtfhgM6Q/edit?usp=sharing)
 * * *
 ## Class Timing
 
