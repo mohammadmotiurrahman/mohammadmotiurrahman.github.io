@@ -1,6 +1,5 @@
 # [CSE 203 Sec 8](https://mohammadmotiurrahman.github.io/cse203_8)
-# [CSE 211 Sec 5](https://mohammadmotiurrahman.github.io/cse211_5)
-# [CSE 317 Sec 3](https://mohammadmotiurrahman.github.io/cse317_3)
+# [CSE 211 Sec 2](https://mohammadmotiurrahman.github.io/cse211_2)
 
 * * *
 # [CSE 203 Slack Group](https://cse203autumn22.slack.com/)
