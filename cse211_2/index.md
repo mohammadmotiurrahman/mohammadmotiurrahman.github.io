@@ -1,4 +1,4 @@
-# CSE 211 | Sec 5 Algorithms 
+# CSE 211 | Sec 2 Algorithms 
 
 ## Instructor
 ### Mohammad Motiur Rahman
@@ -39,7 +39,9 @@ Office Hour Time: By appointment
 * * *
 ## Class Timing
 
+Sunday- 11:20am to 12:50pm
 
+Tuesday- 11:20am to 12:50pm
 
 * * *
 ## Grading Scheme (Tentative)
@@ -52,7 +54,7 @@ Plagiarism will absolutely not be tolerated.
 
 [Rules regarding plagiarism](https://www.plagiarism.org/article/what-is-plagiarism)
 
-Also read the following code of conduct expected from IUB authorities: Page 38 and Page 39 of http://www.iub.edu.bd/files/Greenbook,sp19.f.pdf.
+Also read the following code of conduct expected from IUB authorities: Page 38 and Page 39 of [Green Book IUB](http://www.iub.edu.bd/files/GreenBook_Autumn22.pdf).
 
 * * *   
 
