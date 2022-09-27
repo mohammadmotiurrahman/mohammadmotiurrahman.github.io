@@ -40,6 +40,7 @@ Office Hour Time: By appointment
 ## Lectures
 
 ### [Lecture 0 Introduction](https://docs.google.com/presentation/d/122dASDvKv-0vbwAWQUJcUTDo6oysnvg4nAyLGaV0ABA/edit?usp=sharing)
+### [Lecture 0 Introduction to Algorithm](https://docs.google.com/presentation/d/1Favd9zoMswD1XJpuLT-Pd04KZjOFL6s7WpO-sQoO40w/edit?usp=sharing)
 
 * * *
 ## Class Timing
