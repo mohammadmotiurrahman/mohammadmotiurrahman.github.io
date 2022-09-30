@@ -7,7 +7,7 @@
 
 # [Data Structure Sec 16 Theory](https://mohammadmotiurrahman.github.io/cse203_16)
 # [Data Structure Sec 16 Lab](https://mohammadmotiurrahman.github.io/cse203_16L)
-# [Google Drive Sec (1 & 15 & 16)](https://drive.google.com/drive/folders/10fW4uC57ErceiyXK2ZZGZN2LmeDABelm?usp=sharing
+# [Google Drive Sec (1 & 15 & 16)]()
 
 
 # [Algorithms Sec 2](https://mohammadmotiurrahman.github.io/cse211_2)
