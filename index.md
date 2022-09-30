@@ -11,6 +11,7 @@
 
 
 # [Algorithms Sec 2](https://mohammadmotiurrahman.github.io/cse211_2)
+# [Google Drive (Sec 2)](https://drive.google.com/drive/folders/1K3MD1XFtCfr700KjvasbbBVfn21gmRCg?usp=sharing)
 
 
 * * *
