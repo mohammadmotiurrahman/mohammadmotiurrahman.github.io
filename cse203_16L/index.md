@@ -4,37 +4,7 @@
 ### Mohammad Motiur Rahman
 Email: motiur@iub.edu.bd
 * * *
-## Unofficial Teaching Assistants
 
-
-### [Jannat Un Nayeem ](mailto:2030087@iub.edu.bd ) 
-
-[Google Meet](http://meet.google.com/rmm-fzar-yng)
-
-Office Hour Time: By appointment
-
-
-### [Sharmin Islam](mailto:1822217@iub.edu.bd  ) 
-
-[Google Meet](http://meet.google.com/ooy-ozzg-dzt)
-
-Office Hour Time: By appointment 
-
-
-### [Saiyara Raquib Oishy](mailto:1930931@iub.edu.bd ) 
-
-[Google Meet](http://meet.google.com/axk-ysgi-vht)
-
-Office Hour Time: By appointment 
-
-
-### [Shoban Bhowmik](mailto:1930533@iub.edu.bd ) 
-
-[Google Meet](meet.google.com/trr-ysdk-bta)
-
-Office Hour Time: By appointment 
-
-* * *
 
 [Introduction](https://docs.google.com/presentation/d/1BeWLuxuX2yREbHlYiahApuTAQoqZfGy9sN42g2HqjnM/edit?usp=sharing)
 
