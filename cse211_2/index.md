@@ -35,12 +35,11 @@ Office Hour Time: By appointment
 Office Hour Time: By appointment 
 
 * * * 
-## [Google Drive Link](https://drive.google.com/drive/folders/1K3MD1XFtCfr700KjvasbbBVfn21gmRCg?usp=sharing)
 
 ## Lectures
 
 ### [Lecture 0 Introduction](https://docs.google.com/presentation/d/122dASDvKv-0vbwAWQUJcUTDo6oysnvg4nAyLGaV0ABA/edit?usp=sharing)
-### [Lecture 0 Introduction to Algorithm](https://docs.google.com/presentation/d/1Favd9zoMswD1XJpuLT-Pd04KZjOFL6s7WpO-sQoO40w/edit?usp=sharing)
+### [Lecture 1 Introduction to Algorithm](https://docs.google.com/presentation/d/1Favd9zoMswD1XJpuLT-Pd04KZjOFL6s7WpO-sQoO40w/edit?usp=sharing)
 
 * * *
 ## Class Timing
