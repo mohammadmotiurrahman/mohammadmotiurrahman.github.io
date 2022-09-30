@@ -2,7 +2,7 @@
 # [Data Structure Sec 8 Lab](https://mohammadmotiurrahman.github.io/cse203_8L)
 # [Data Structure Sec 13 Lab](https://mohammadmotiurrahman.github.io/cse203_13L)
 # [Data Structure Sec 13 Theory](https://mohammadmotiurrahman.github.io/cse203_13)
-# [Google Drive Sec8 & Sec13](https://drive.google.com/drive/folders/10fW4uC57ErceiyXK2ZZGZN2LmeDABelm?usp=sharing)
+# [Google Drive Sec 8 & Sec 13](https://drive.google.com/drive/folders/10fW4uC57ErceiyXK2ZZGZN2LmeDABelm?usp=sharing)
 
 
 # [Data Structure Sec 16 Theory](https://mohammadmotiurrahman.github.io/cse203_16)
