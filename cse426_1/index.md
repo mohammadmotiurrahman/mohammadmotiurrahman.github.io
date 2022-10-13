@@ -3,13 +3,9 @@
 ## Instructor
 ### Mohammad Motiur Rahman
 Email: motiur@iub.edu.bd
-* * *
-
 
 * * *
 ## Class Timing
-
-
 
 * * *
 ## Grading Scheme (Tentative)
