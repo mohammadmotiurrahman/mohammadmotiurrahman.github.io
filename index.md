@@ -15,6 +15,11 @@
 
 
 * * *
+# [Intro to Robotics Sec 2](https://mohammadmotiurrahman.github.io/cse426_1)
+# [Google Drive](#)
+
+
+* * *
 # [CSE 203 Slack Group](https://cse203autumn22.slack.com/)
 # [CSE 211 Slack Group](https://cse211autumn22.slack.com/)
 
