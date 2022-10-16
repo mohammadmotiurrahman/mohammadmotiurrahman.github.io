@@ -10,6 +10,7 @@ Email: motiur@iub.edu.bd
 ### [Lecture 0 Introduction](https://docs.google.com/presentation/d/122dASDvKv-0vbwAWQUJcUTDo6oysnvg4nAyLGaV0ABA/edit?usp=sharing)
 ### [Lecture 1 Introduction to Algorithm](https://docs.google.com/presentation/d/1Favd9zoMswD1XJpuLT-Pd04KZjOFL6s7WpO-sQoO40w/edit?usp=sharing)
 ### [Lecture 2 Runtime Analysis](https://docs.google.com/presentation/d/1MBy5wbiG0PirY5j9-MGkyJJX0-JBImcG0vcD1aIP0yg/edit?usp=sharing)
+### [Lecture 3 Recursive Algorithms](https://docs.google.com/presentation/d/1zm3eAgLB71fyjV6gS9YioZyv6aeYZLQioMtJ3iklQ5Y/edit?usp=sharing)
 
 * * *
 ## Class Timing
