@@ -10,9 +10,9 @@ Email: motiur@iub.edu.bd
 ### [Lecture 0 Introduction](https://docs.google.com/presentation/d/122dASDvKv-0vbwAWQUJcUTDo6oysnvg4nAyLGaV0ABA/edit?usp=sharing)
 ### [Lecture 1 Introduction to Algorithm](https://docs.google.com/presentation/d/1Favd9zoMswD1XJpuLT-Pd04KZjOFL6s7WpO-sQoO40w/edit?usp=sharing)
 ### [Lecture 2 Runtime Analysis](https://docs.google.com/presentation/d/1MBy5wbiG0PirY5j9-MGkyJJX0-JBImcG0vcD1aIP0yg/edit?usp=sharing)
-### [Lecture 3 Recursive Algorithms](https://docs.google.com/presentation/d/1zm3eAgLB71fyjV6gS9YioZyv6aeYZLQioMtJ3iklQ5Y/edit?usp=sharing)
+### [Lecture 3 Recursive Algorithms](https://docs.google.com/presentation/d/1NRq1C68hhvVOxyFnvv6ObrL-gj-YfF4UkhcpFuM8xlo/edit?usp=sharing)
 ### [Lecture 4 Heapsort](https://docs.google.com/presentation/d/1g12GTFSvO1vVQUZMKirOoxqjbFo-u7H7ENgfp8vnM0Y/edit?usp=sharing)
-### [Lecture 5 Recursive Runtime Analysis](https://docs.google.com/presentation/d/152kR6xiMaFEc1GnFy-cYINzHj_zV0-uVKV01LVvDKhE/edit?usp=sharing)
+### [Lecture 5 Recursive Runtime Analysis](https://docs.google.com/presentation/d/1kLu24lhGt4D-c0s9AiWQ0IwJ31McHdc-lfyVMO6c2Es/edit?usp=sharing)
 
 
 * * *
