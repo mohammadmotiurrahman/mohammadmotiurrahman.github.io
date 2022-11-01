@@ -13,6 +13,7 @@ Email: motiur@iub.edu.bd
 ### [Lecture 3 Recursive Algorithms](https://docs.google.com/presentation/d/1NRq1C68hhvVOxyFnvv6ObrL-gj-YfF4UkhcpFuM8xlo/edit?usp=sharing)
 ### [Lecture 4 Heapsort](https://docs.google.com/presentation/d/1g12GTFSvO1vVQUZMKirOoxqjbFo-u7H7ENgfp8vnM0Y/edit?usp=sharing)
 ### [Lecture 5 Recursive Runtime Analysis](https://docs.google.com/presentation/d/1kLu24lhGt4D-c0s9AiWQ0IwJ31McHdc-lfyVMO6c2Es/edit?usp=sharing)
+### [Lecture 6 Linear Time Sorting](https://docs.google.com/presentation/d/124DhsKT7ow3j6afk1oSuZKHyky-I_pVFm6vIFIvseFQ/edit?usp=sharing)
 
 
 * * *
