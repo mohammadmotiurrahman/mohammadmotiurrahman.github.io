@@ -15,6 +15,7 @@ Email: motiur@iub.edu.bd
 ### [Lecture 5 Recursive Runtime Analysis](https://docs.google.com/presentation/d/1kLu24lhGt4D-c0s9AiWQ0IwJ31McHdc-lfyVMO6c2Es/edit?usp=sharing)
 ### [Lecture 6 Linear Time Sorting](https://docs.google.com/presentation/d/124DhsKT7ow3j6afk1oSuZKHyky-I_pVFm6vIFIvseFQ/edit?usp=sharing)
 ### [Lecture 7 Graphs](https://docs.google.com/presentation/d/1vFy4Vz03IHg-fqtrQ_WzV6Tw2BEf4ut1oSaBYDZY3IU/edit?usp=sharing)
+### [Lecture 8 Graphs continued](https://docs.google.com/presentation/d/1mAX3pwWCDaNxTGFtAuusV4H-PQaUpDTWDjLjKfN_vYc/edit?usp=sharing)
 
 * * *
 ## Class Timing
