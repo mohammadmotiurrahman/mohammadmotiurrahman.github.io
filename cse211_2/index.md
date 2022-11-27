@@ -17,6 +17,8 @@ Email: motiur@iub.edu.bd
 ### [Lecture 7 Graphs](https://docs.google.com/presentation/d/1vFy4Vz03IHg-fqtrQ_WzV6Tw2BEf4ut1oSaBYDZY3IU/edit?usp=sharing)
 ### [Lecture 8 Graphs continued](https://docs.google.com/presentation/d/1mAX3pwWCDaNxTGFtAuusV4H-PQaUpDTWDjLjKfN_vYc/edit?usp=sharing)
 ### [Lecture 9 Single Source Shortest Path](https://docs.google.com/presentation/d/1U5K5nvE1avcu9YOVhm3WPyzH8ehywbjKyYLHpBbC0F8/edit?usp=sharing)
+### [Lecture 10 Greedy Algorithm Continued](https://docs.google.com/presentation/d/1THD_VY6wTbIUVJ3FA3VUVKrpCHYD7Dl2fzeVd0lJ9yQ/edit?usp=sharing)
+
 
 * * *
 ## Class Timing
