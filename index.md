@@ -2,7 +2,7 @@
 # [CSE 317 Sec 3](https://mohammadmotiurrahman.github.io/cse317_3)
 
 * * *
-# [Summer 2022](https://mohammadmotiurrahman.github.io/autumn2022)
+# [Autumn 2022](https://mohammadmotiurrahman.github.io/autumn2022)
 
 * * *
 
