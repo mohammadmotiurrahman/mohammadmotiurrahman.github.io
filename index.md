@@ -1,5 +1,6 @@
 
 # [CSE 317 Sec 3](https://mohammadmotiurrahman.github.io/cse317_3)
+# [CSE 203 Sec 5](https://mohammadmotiurrahman.github.io/cse203_5)
 
 * * *
 # [Autumn 2022](https://mohammadmotiurrahman.github.io/autumn2022)
