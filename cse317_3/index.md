@@ -10,9 +10,7 @@ Sunday- 8am to 9:30am
 Tuesday - 8am to 9:30am
 
 * * *
-## Grading Scheme (Tentative)
-
-Consult the course outline
+## [Course Outline](https://docs.google.com/document/d/1Scq1lBmsORwLaVFL5n65KjSRHszz-B9sPH1fuHYctdI/edit?usp=sharing)
 
 * * *
 ## Lecture Jamboard
