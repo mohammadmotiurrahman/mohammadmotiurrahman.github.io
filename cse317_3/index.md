@@ -15,6 +15,12 @@ Tuesday - 8am to 9:30am
 Consult the course outline
 
 * * *
+## Lecture Jamboard
+
+[Lecture 1](https://jamboard.google.com/d/140Qr5djsPnjIcpb2WE3VWknj64xQP_ZwAsjh5tEFB4E/edit?usp=sharing)
+
+
+* * * 
 ## Code of conduct
 Plagiarism will absolutely not be tolerated.
 
