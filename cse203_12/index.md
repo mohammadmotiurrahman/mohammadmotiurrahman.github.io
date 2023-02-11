@@ -1,4 +1,4 @@
-# CSE 203| Sec 12 Numerical Methods  
+# CSE 203| Sec 12 Data Structure
 
 ## Instructor
 ### Mohammad Motiur Rahman
