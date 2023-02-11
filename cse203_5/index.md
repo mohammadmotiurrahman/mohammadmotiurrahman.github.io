@@ -12,7 +12,7 @@ Tuesday- 4:20pm to 5:50pm
 
 
 * * *
-## [Course Outline]()
+## [Course Outline](https://drive.google.com/file/d/1z54mqMOghtS7a8FLOoKlwdsRTY9zzTQS/view?usp=sharing)
 
 * * *
 ## Google Colab Lecture 
