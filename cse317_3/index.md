@@ -16,6 +16,7 @@ Tuesday - 8am to 9:30am
 ## Lecture Jamboard
 
 [Lecture 1](https://jamboard.google.com/d/140Qr5djsPnjIcpb2WE3VWknj64xQP_ZwAsjh5tEFB4E/edit?usp=sharing)
+[Lecture 2](https://jamboard.google.com/d/1FaFid2YAYCV5gNTy2YSZDJUvbXvP8JUwW2vrI5zDW-U/edit?usp=sharing)
 
 
 * * * 
