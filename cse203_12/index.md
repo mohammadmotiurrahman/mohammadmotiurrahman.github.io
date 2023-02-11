@@ -1,4 +1,4 @@
-# CSE 203| Sec 12 Data Structure
+# CSE 203 | Sec 12 Data Structure
 
 ## Instructor
 ### Mohammad Motiur Rahman
