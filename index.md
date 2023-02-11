@@ -13,21 +13,3 @@
 
 [github.com/mohammadmotiurrahman](https://github.com/mohammadmotiurrahman)
 
-* * *
-      ,
-     /\^/`\
-    | \/   |
-    | |    |
-    \ \    /
-     '\\//'
-       ||
-       ||
-       ||
-       ||  ,
-   |\  ||  |\
-   | | ||  | |
-   | | || / /
-    \ \||/ /
-jgs  `\\//`
-    ^^^^^^^^
-* * *
