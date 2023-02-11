@@ -7,7 +7,8 @@ Email: motiur@iub.edu.bd
 
 ## Class Timing
 Monday- 4:20pm to 5:50pm
-Wednesday - 4:20pm to 5:50pm
+
+Wednesday- 4:20pm to 5:50pm
 
 
 * * *
