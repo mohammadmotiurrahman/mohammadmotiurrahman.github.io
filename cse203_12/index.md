@@ -21,6 +21,8 @@ Wednesday- 4:20pm to 5:50pm
 
 [Lecture 2](https://colab.research.google.com/drive/1LkM8C177yFEQcau9R_ZPWS1anK5ZoorI?usp=sharing)
 
+[Lecture 3](https://colab.research.google.com/drive/1S--h9Fyc2Xd_sGxoJQdGXMya0ob-Woy-?usp=sharing)
+
 
 * * * 
 ## Code of conduct
