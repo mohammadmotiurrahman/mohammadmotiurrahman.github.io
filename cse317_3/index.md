@@ -21,6 +21,8 @@ Tuesday - 8am to 9:30am
 
 [Lecture 3](https://jamboard.google.com/d/1M09i91AV6qlsoUvC9JWDbEsYahAN7jGsi7LQv8CqAYo/edit?usp=sharing)
 
+[Lecture 4](https://jamboard.google.com/d/1TyVL6nv3r9wWHIkZrXM2CgImMLZIwqVBIkyKd1uC0Iw/edit?usp=sharing)
+
 
 * * * 
 ## Code of conduct
