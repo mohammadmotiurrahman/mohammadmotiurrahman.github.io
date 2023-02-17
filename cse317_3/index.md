@@ -24,6 +24,12 @@ Tuesday - 8am to 9:30am
 
 * * *
 
+## Practice Question 
+
+[Sample 1](https://drive.google.com/file/d/1QqLzK8FiQI3eaNSuJx37IFO_tS3tkSoo/view?usp=share_link)
+
+* * * 
+
 ## Lecture Jamboard
 
 [Lecture 1](https://jamboard.google.com/d/140Qr5djsPnjIcpb2WE3VWknj64xQP_ZwAsjh5tEFB4E/edit?usp=sharing)
