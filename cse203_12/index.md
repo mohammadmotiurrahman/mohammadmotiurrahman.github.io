@@ -19,9 +19,11 @@ Wednesday- 4:20pm to 5:50pm
 [Meet Link](meet.google.com/oct-ptzn-qbj) 
 
 * * *
+
 ## [Course Outline](https://drive.google.com/file/d/1z54mqMOghtS7a8FLOoKlwdsRTY9zzTQS/view?usp=sharing)
 
 * * *
+
 ## Google Colab Lecture 
 
 [Lecture 1](https://colab.research.google.com/drive/16u2FJlFIHA-PnizMfVaMIs9kgN2iyOwf?usp=sharing)
@@ -33,7 +35,17 @@ Wednesday- 4:20pm to 5:50pm
 
 * * * 
 
+## Colab Files by Course Assistant
+
+[Session 1](https://colab.research.google.com/drive/17IMYoDryS2E8UHSiFWzX69ECWR3_CNzT?usp=sharing)
+
+[Session 2](https://colab.research.google.com/drive/17IMYoDryS2E8UHSiFWzX69ECWR3_CNzT?usp=sharing)
+
+
+* * *
+
 ## Code of conduct
+
 Plagiarism will absolutely not be tolerated.
 
 [Rules regarding plagiarism](https://www.plagiarism.org/article/what-is-plagiarism)
