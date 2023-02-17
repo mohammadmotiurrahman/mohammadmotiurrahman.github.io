@@ -10,6 +10,14 @@ Sunday- 8am to 9:30am
 Tuesday - 8am to 9:30am
 
 * * *
+## Course Assistant
+### Saiyara Raquib Oishy
+
+[Meet Link if you are interested to talk to her](meet.google.com/kmu-chws-ejp) 
+
+Email: 1930931@iub.edu.bd 
+
+* * *
 ## [Course Outline](https://docs.google.com/document/d/1Scq1lBmsORwLaVFL5n65KjSRHszz-B9sPH1fuHYctdI/edit?usp=sharing)
 
 * * *
