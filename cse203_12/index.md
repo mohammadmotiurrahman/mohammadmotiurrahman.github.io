@@ -9,7 +9,13 @@ Email: motiur@iub.edu.bd
 Monday- 4:20pm to 5:50pm
 
 Wednesday- 4:20pm to 5:50pm
+* * *
+## Course Assistant
+### Ikram Hossain Akif
 
+[Meet Link if you are interested to talk to him](meet.google.com/oct-ptzn-qbj) 
+
+Email: 2130734@iub.edu.bd 
 
 * * *
 ## [Course Outline](https://drive.google.com/file/d/1z54mqMOghtS7a8FLOoKlwdsRTY9zzTQS/view?usp=sharing)
