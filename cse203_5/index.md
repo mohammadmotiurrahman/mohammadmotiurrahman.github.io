@@ -29,6 +29,14 @@ Tuesday- 4:20pm to 5:50pm
 
 
 * * * 
+## Colab Files by Course Assistant
+
+[Session 1](https://colab.research.google.com/drive/17IMYoDryS2E8UHSiFWzX69ECWR3_CNzT?usp=sharing)
+
+[Session 2](https://colab.research.google.com/drive/17IMYoDryS2E8UHSiFWzX69ECWR3_CNzT?usp=sharing)
+
+
+* * * 
 ## Code of conduct
 Plagiarism will absolutely not be tolerated.
 
