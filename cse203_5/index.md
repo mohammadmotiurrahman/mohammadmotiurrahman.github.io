@@ -3,22 +3,29 @@
 ## Instructor
 ### Mohammad Motiur Rahman
 Email: motiur@iub.edu.bd
+
 * * *
 
 ## Class Timing
+
 Sunday- 4:20pm to 5:50pm
 
 Tuesday- 4:20pm to 5:50pm
+
 * * * 
+
 ## Course Assistant
 ### [Ikram Hossain Akif](mailto:2130734@iub.edu.bd)
-
 [Meet Link](meet.google.com/oct-ptzn-qbj) 
 
 * * *
-## [Course Outline](https://drive.google.com/file/d/1z54mqMOghtS7a8FLOoKlwdsRTY9zzTQS/view?usp=sharing)
+
+## Course Outline
+
+[Spring 2023](https://drive.google.com/file/d/1z54mqMOghtS7a8FLOoKlwdsRTY9zzTQS/view?usp=sharing)
 
 * * *
+
 ## Google Colab Lecture 
 
 [Lecture 1](https://colab.research.google.com/drive/1EkuotepeLGA3ZGCefWDMsXZe2FebVb1l?usp=sharing)
@@ -27,8 +34,11 @@ Tuesday- 4:20pm to 5:50pm
 
 [Lecture 3](https://colab.research.google.com/drive/1wL9JYVsLkVo_0E7Nw-XKGYOxKShKn_6V?usp=sharing)
 
+[Lecture 4](https://colab.research.google.com/drive/1WO71z8n-L3Xi055PokeV_kEl25aiOXLl?usp=sharing)
+
 
 * * * 
+
 ## Colab Files by Course Assistant
 
 [Session 1](https://colab.research.google.com/drive/17IMYoDryS2E8UHSiFWzX69ECWR3_CNzT?usp=sharing)
@@ -37,7 +47,9 @@ Tuesday- 4:20pm to 5:50pm
 
 
 * * * 
+
 ## Code of conduct
+
 Plagiarism will absolutely not be tolerated.
 
 [Rules regarding plagiarism](https://www.plagiarism.org/article/what-is-plagiarism)
