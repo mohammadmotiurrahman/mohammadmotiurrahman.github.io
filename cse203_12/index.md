@@ -44,7 +44,6 @@ Wednesday- 4:20pm to 5:50pm
 
 [Session 2](https://colab.research.google.com/drive/17IMYoDryS2E8UHSiFWzX69ECWR3_CNzT?usp=sharing)
 
-
 * * *
 
 ## Code of conduct
@@ -56,6 +55,5 @@ Plagiarism will absolutely not be tolerated.
 Also read the following code of conduct expected from IUB authorities: [Page 38 and Page 39](http://www.iub.edu.bd/files/Greenbook,sp19.f.pdf).
 
 * * *   
-
 
 Be curious
