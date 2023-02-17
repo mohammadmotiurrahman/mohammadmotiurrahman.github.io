@@ -34,6 +34,7 @@ Wednesday- 4:20pm to 5:50pm
 
 [Lecture 3](https://colab.research.google.com/drive/1S--h9Fyc2Xd_sGxoJQdGXMya0ob-Woy-?usp=sharing)
 
+[Lecture 4](https://colab.research.google.com/drive/1u_6mEFvgRJ9BeVCoVZZ62kLOu3BmQq0D?usp=sharing)
 
 * * * 
 
