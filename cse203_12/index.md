@@ -20,7 +20,9 @@ Wednesday- 4:20pm to 5:50pm
 
 * * *
 
-## [Course Outline](https://drive.google.com/file/d/1z54mqMOghtS7a8FLOoKlwdsRTY9zzTQS/view?usp=sharing)
+## Course Outline
+
+[Spring 2023](https://drive.google.com/file/d/1z54mqMOghtS7a8FLOoKlwdsRTY9zzTQS/view?usp=sharing)
 
 * * *
 
