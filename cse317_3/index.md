@@ -3,6 +3,7 @@
 ## Instructor
 ### Mohammad Motiur Rahman
 Email: motiur@iub.edu.bd
+
 * * *
 
 ## Class Timing
@@ -10,17 +11,17 @@ Sunday- 8am to 9:30am
 Tuesday - 8am to 9:30am
 
 * * *
+
 ## Course Assistant
 ### [Saiyara Raquib Oishy](mailto:1930931@iub.edu.bd)
-
 [Meet Link](meet.google.com/kmu-chws-ejp) 
 
-Email: 1930931@iub.edu.bd 
-
 * * *
+
 ## [Course Outline](https://docs.google.com/document/d/1Scq1lBmsORwLaVFL5n65KjSRHszz-B9sPH1fuHYctdI/edit?usp=sharing)
 
 * * *
+
 ## Lecture Jamboard
 
 [Lecture 1](https://jamboard.google.com/d/140Qr5djsPnjIcpb2WE3VWknj64xQP_ZwAsjh5tEFB4E/edit?usp=sharing)
@@ -31,9 +32,10 @@ Email: 1930931@iub.edu.bd
 
 [Lecture 4](https://jamboard.google.com/d/1TyVL6nv3r9wWHIkZrXM2CgImMLZIwqVBIkyKd1uC0Iw/edit?usp=sharing)
 
-
 * * * 
+
 ## Code of conduct
+
 Plagiarism will absolutely not be tolerated.
 
 [Rules regarding plagiarism](https://www.plagiarism.org/article/what-is-plagiarism)
