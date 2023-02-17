@@ -45,7 +45,11 @@ Wednesday- 4:20pm to 5:50pm
 [Session 2](https://colab.research.google.com/drive/17IMYoDryS2E8UHSiFWzX69ECWR3_CNzT?usp=sharing)
 
 * * *
+## HomeWork
 
+[PSet 1](https://colab.research.google.com/drive/1Oe0S7W1R-6qGRxqM9KcTCg2NUhaSBl5f?usp=sharing)
+
+* * * 
 ## Code of conduct
 
 Plagiarism will absolutely not be tolerated.
