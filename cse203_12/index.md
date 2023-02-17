@@ -11,11 +11,9 @@ Monday- 4:20pm to 5:50pm
 Wednesday- 4:20pm to 5:50pm
 * * *
 ## Course Assistant
-### Ikram Hossain Akif
+### [Ikram Hossain Akif](mailto:2130734@iub.edu.bd)
 
-[Meet Link if you are interested to talk to him](meet.google.com/oct-ptzn-qbj) 
-
-Email: 2130734@iub.edu.bd 
+[Meet Link](meet.google.com/oct-ptzn-qbj) 
 
 * * *
 ## [Course Outline](https://drive.google.com/file/d/1z54mqMOghtS7a8FLOoKlwdsRTY9zzTQS/view?usp=sharing)
