@@ -49,7 +49,7 @@ Tuesday- 4:20pm to 5:50pm
 * * * 
 ## HomeWork
 
-[PSet 1](https://colab.research.google.com/drive/1Oe0S7W1R-6qGRxqM9KcTCg2NUhaSBl5f?usp=sharing)
+[PSet 1](https://drive.google.com/file/d/1V3JRlkX6HqPavuW0QIplfgzvcSbQ94DH/view?usp=sharing)
 
 [PSet 2](https://drive.google.com/file/d/1V3sWECeHWl4mXxv9FdYr4fBVejZGu2M5/view?usp=sharing)
 
