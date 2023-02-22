@@ -53,6 +53,9 @@ Tuesday- 4:20pm to 5:50pm
 
 [PSet 2](https://drive.google.com/file/d/1V3sWECeHWl4mXxv9FdYr4fBVejZGu2M5/view?usp=sharing)
 
+[PSet 3](https://colab.research.google.com/drive/1Ah8XmS4YYeKAEfWthp86a0KQceZ2uXAb?usp=sharing)
+
+
 * * * 
 
 ## Code of conduct
