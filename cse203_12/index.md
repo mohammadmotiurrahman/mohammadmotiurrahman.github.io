@@ -16,13 +16,13 @@ Wednesday- 4:20pm to 5:50pm
 
 ## Course Assistant
 ### [Ikram Hossain Akif](mailto:2130734@iub.edu.bd)
-[Meet Link](meet.google.com/oct-ptzn-qbj) 
+### [Meet Link](meet.google.com/oct-ptzn-qbj) 
 
 * * *
 
 ## Course Outline
 
-[Spring 2023](https://drive.google.com/file/d/1z54mqMOghtS7a8FLOoKlwdsRTY9zzTQS/view?usp=sharing)
+### [Spring 2023](https://drive.google.com/file/d/1z54mqMOghtS7a8FLOoKlwdsRTY9zzTQS/view?usp=sharing)
 
 * * *
 
