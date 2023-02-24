@@ -15,7 +15,7 @@ Tuesday - 8am to 9:30am
 
 ## Course Assistant
 ### [Saiyara Raquib Oishy](mailto:1930931@iub.edu.bd)
-[Meet Link](meet.google.com/kmu-chws-ejp) 
+### [Meet Link](https://meet.google.com/kmu-chws-ejp) 
 
 * * *
 
