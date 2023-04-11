@@ -3,15 +3,10 @@
 ## Instructor
 ### Mohammad Motiur Rahman
 Email: motiur@iub.edu.bd
-
 * * *
-
 ## Class Timing
-
 Sunday- 4:20pm to 5:50pm
-
 Tuesday- 4:20pm to 5:50pm
-
 * * * 
 
 ## Course Assistant
@@ -69,6 +64,4 @@ Plagiarism will absolutely not be tolerated.
 Also read the following code of conduct expected from IUB authorities: [Page 38 and Page 39](http://www.iub.edu.bd/files/Greenbook,sp19.f.pdf).
 
 * * *   
-
-
 Be curious
