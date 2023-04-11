@@ -65,5 +65,4 @@ Plagiarism will absolutely not be tolerated.
 Also read the following code of conduct expected from IUB authorities: [Page 38 and Page 39](http://www.iub.edu.bd/files/Greenbook,sp19.f.pdf).
 
 * * *   
-
 Be curious
