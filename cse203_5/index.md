@@ -55,6 +55,8 @@ Tuesday- 4:20pm to 5:50pm
 
 [PSet 3](https://colab.research.google.com/drive/1Ah8XmS4YYeKAEfWthp86a0KQceZ2uXAb?usp=sharing)
 
+[PSet 4](https://colab.research.google.com/drive/1Es0Covq5ib5bHSxSFhA4hKoNRTDcpiAI?usp=sharing)
+
 
 * * * 
 
