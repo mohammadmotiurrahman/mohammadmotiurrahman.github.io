@@ -46,7 +46,7 @@ Tuesday- 4:20pm to 5:50pm
 
 [PSet 1 : CSC 101 Functions](https://drive.google.com/file/d/1V3JRlkX6HqPavuW0QIplfgzvcSbQ94DH/view?usp=sharing)
 
-[PSet 2 : Linked List](https://drive.google.com/file/d/1V3sWECeHWl4mXxv9FdYr4fBVejZGu2M5/view?usp=sharing)
+[PSet 2 : Linked List](https://colab.research.google.com/drive/1V3sWECeHWl4mXxv9FdYr4fBVejZGu2M5)
 
 [PSet 3a : Stack And Queue Tracing](https://docs.google.com/document/d/1sJu3j-EPPUj0ubxTcc5X8ZI4kagRtxSvlw9EVPQfL9s/edit?usp=sharing)
 
