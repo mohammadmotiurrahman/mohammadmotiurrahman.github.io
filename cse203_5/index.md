@@ -44,13 +44,15 @@ Tuesday- 4:20pm to 5:50pm
 * * * 
 ## HomeWork
 
-[PSet 1](https://drive.google.com/file/d/1V3JRlkX6HqPavuW0QIplfgzvcSbQ94DH/view?usp=sharing)
+[PSet 1 : CSC 101 Functions](https://drive.google.com/file/d/1V3JRlkX6HqPavuW0QIplfgzvcSbQ94DH/view?usp=sharing)
 
-[PSet 2](https://drive.google.com/file/d/1V3sWECeHWl4mXxv9FdYr4fBVejZGu2M5/view?usp=sharing)
+[PSet 2 : Linked List](https://drive.google.com/file/d/1V3sWECeHWl4mXxv9FdYr4fBVejZGu2M5/view?usp=sharing)
 
-[PSet 3](https://colab.research.google.com/drive/1Ah8XmS4YYeKAEfWthp86a0KQceZ2uXAb?usp=sharing)
+[PSet 3 : Stack And Queue](https://colab.research.google.com/drive/1Ah8XmS4YYeKAEfWthp86a0KQceZ2uXAb?usp=sharing)
 
-[PSet 4](https://colab.research.google.com/drive/1Es0Covq5ib5bHSxSFhA4hKoNRTDcpiAI?usp=sharing)
+[PSet 4 : Recursion](https://colab.research.google.com/drive/14ixE5tAY86nyyfNghzZ7eeSRem9xKBZJ?usp=sharing)
+
+[PSet 5: Binary Search Tree](https://colab.research.google.com/drive/1Es0Covq5ib5bHSxSFhA4hKoNRTDcpiAI?usp=sharing)
 
 
 * * * 
