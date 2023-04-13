@@ -47,13 +47,19 @@ Wednesday- 4:20pm to 5:50pm
 * * *
 ## HomeWork
 
-[PSet 1](https://drive.google.com/file/d/1V3JRlkX6HqPavuW0QIplfgzvcSbQ94DH/view?usp=sharing)
+[PSet 1 : CSC 101 Functions](https://colab.research.google.com/drive/1V3JRlkX6HqPavuW0QIplfgzvcSbQ94DH)
 
-[PSet 2](https://drive.google.com/file/d/1V3sWECeHWl4mXxv9FdYr4fBVejZGu2M5/view?usp=sharing)
+[PSet 2 : Linked List](https://colab.research.google.com/drive/1V3sWECeHWl4mXxv9FdYr4fBVejZGu2M5)
 
-[PSet 3](https://colab.research.google.com/drive/1Ah8XmS4YYeKAEfWthp86a0KQceZ2uXAb?usp=sharing)
+[PSet 3a : Stack And Queue Tracing](https://docs.google.com/document/d/1sJu3j-EPPUj0ubxTcc5X8ZI4kagRtxSvlw9EVPQfL9s/edit?usp=sharing)
 
-[PSet 4](https://colab.research.google.com/drive/1Es0Covq5ib5bHSxSFhA4hKoNRTDcpiAI?usp=sharing)
+[PSet 3b : Stack And Queue](https://colab.research.google.com/drive/1Ah8XmS4YYeKAEfWthp86a0KQceZ2uXAb?usp=sharing)
+
+[PSet 4a : Recursion Tracing](https://docs.google.com/document/d/1HpLixQvPuxICBGI3vM-FQzScHGGZierq4v2T4c1PD-s/edit?usp=sharing)
+
+[PSet 4b: Recursion](https://colab.research.google.com/drive/14ixE5tAY86nyyfNghzZ7eeSRem9xKBZJ?usp=sharing)
+
+[PSet 5: Binary Search Tree](https://colab.research.google.com/drive/1Es0Covq5ib5bHSxSFhA4hKoNRTDcpiAI?usp=sharing)
 
 * * * 
 ## Code of conduct
