@@ -61,6 +61,8 @@ Wednesday- 4:20pm to 5:50pm
 
 [PSet 5: Binary Search Tree](https://colab.research.google.com/drive/1Es0Covq5ib5bHSxSFhA4hKoNRTDcpiAI?usp=sharing)
 
+[PSet 6: Graph](https://docs.google.com/document/d/1N1yCI6xMQOUl4pd712Wtjs_WB6stzlZSyj5G57miZWY/edit?usp=sharing)
+
 * * * 
 ## Code of conduct
 
