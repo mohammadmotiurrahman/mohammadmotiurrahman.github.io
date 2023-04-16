@@ -9,9 +9,8 @@
 
 * * *
 
-[Generic Data Structures](https://colab.research.google.com/drive/1UxLPRVgJe6Cleeqv3b59vl9fHWnk4ar5?usp=sharing)
-
 [email](mailto:mohammadmotiurrahman@gmail.com)
 
 [github.com/mohammadmotiurrahman](https://github.com/mohammadmotiurrahman)
 
+[Generic Data Structures](https://colab.research.google.com/drive/1UxLPRVgJe6Cleeqv3b59vl9fHWnk4ar5?usp=sharing)
