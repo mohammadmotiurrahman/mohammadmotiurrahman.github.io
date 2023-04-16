@@ -29,74 +29,93 @@ Wednesday- 4:20pm to 5:50pm
 ## Google Colab Lecture 
 
 ###Lecture1
+
 [Colab](https://colab.research.google.com/drive/16u2FJlFIHA-PnizMfVaMIs9kgN2iyOwf?usp=sharing)
 
 ###Lecture 2
+
 [Colab](https://colab.research.google.com/drive/1LkM8C177yFEQcau9R_ZPWS1anK5ZoorI?usp=sharing)
 
 ###Lecture 3
+
 [Colab](https://colab.research.google.com/drive/1S--h9Fyc2Xd_sGxoJQdGXMya0ob-Woy-?usp=sharing)
 
 ###Lecture 4
+
 [Colab](https://colab.research.google.com/drive/1u_6mEFvgRJ9BeVCoVZZ62kLOu3BmQq0D?usp=sharing)
 
 ###Lecture 5
+
 [Colab](https://colab.research.google.com/drive/1fmLvEup8H3TK0Ctq6cCC63o7M7MgFuE7?usp=sharing)
 [Jamboard](https://jamboard.google.com/d/1AIcdyGTRBaTosJ6KJJsqV0waIfW9jrzSRhKylnuU6pU/edit?usp=sharing)
 
 ###Lecture 6
+
 [Colab](https://colab.research.google.com/drive/1ZlDQNf19wjz5yB6zuQZsOvRneK1YAk6j?usp=sharing)
 
 
 ###Lecture 7
+
 [Colab](https://colab.research.google.com/drive/1RVCWo8A7d9pGiyFQUcBbaps61d6ya4b2?usp=sharing)
 [Jamboard](https://jamboard.google.com/d/1NbFfttj_zKBJ2QMub6CnTWaa_PFrlQB8_GIqiS85mWQ/edit?usp=sharing)
 
 ###Lecture 8
+
 [Colab](https://colab.research.google.com/drive/1vLB6bAtOttNy5qZDn_DItJz1pOBM36Gf?usp=sharing)
 [Jamboard](https://jamboard.google.com/d/1bUZi3HGKH0--KEohhWqGtGwZT32QB8A8dXvGqLi4DgE/edit?usp=sharing)
 
 ###Lecture 9
+
 [Colab](https://colab.research.google.com/drive/1vTi8s4pvXSv4Lb4xSPCqYP2Lv_HqOQA1?usp=sharing)
 [Jamboard](https://jamboard.google.com/d/1y7k9xhB_e092nXZ5hzABESEtP89btHgwz2fq29MnWFE/edit?usp=sharing)
 
 ###Lecture 10
+
 [Colab](https://colab.research.google.com/drive/1grkMfpOPqhfzC-6gU4Lxx5-ySQe5Q1Iv?usp=sharing)
 [Colab](https://colab.research.google.com/drive/1O4xuY7chvODdMZ9erXAf6Cm9EVfD4AZ0?usp=sharing)
 [Jamboard](https://jamboard.google.com/d/1JY1xn0K6wPAlQnYQOhNTqyvMMm_2OOGB7THumKhoPUw/edit?usp=sharing)
 
 ###Lecture 11
+
 [Colab](https://colab.research.google.com/drive/1FXOUnp5BLEZramlgw-pQbLLFSvGhwx__?usp=sharing)
 [Jamboard](https://jamboard.google.com/d/1EzAvqsvwRjn9QzORgnVfb3P1qxIb17V66VWyXaSOuCw/edit?usp=sharing)
 
 ###Lecture 12
+
 [Colab](https://colab.research.google.com/drive/1Tb46LQc27KN7jppukw-oYFjSI6HyFbYO?usp=sharing)
 
 ###Lecture 13
+
 [Colab](https://colab.research.google.com/drive/1-LyA3obo1FG_ykObhedBRv4GDy61gN6z?usp=sharing)
 [Jamboard](https://jamboard.google.com/d/1einUhqMgK6lfKMFL7sBr48vHr1Yqj0RD_80WXW7HnJQ/edit?usp=sharing)
 
 ###Lecture 14
+
 [Colab](https://colab.research.google.com/drive/1U5u-Rqb9BSnfqb-Sc_dye3aWFzWAZkJ5?usp=sharing)
 [Jamboard](https://jamboard.google.com/d/1WrAPo4xtXl4EwUMEHLiIKKjDPe0N2zUYu1yOhsxHzAQ/edit?usp=sharing)
 
 ###Lecture 15
+
 [Colab](https://colab.research.google.com/drive/1Rw1jtYUAQNB9VREwJ_loTjCq0sSK4Y-b?usp=sharing)
 
 ###Lecture 16
+
 [Colab](https://colab.research.google.com/drive/1XzyjE-fqz7SRCpDAuBQbbjNPl9dwK4yA?usp=sharing)
 [Colab](https://colab.research.google.com/drive/10YtHYX7-dmUpLaFJheTx-LuBJQlhx9HO?usp=sharing)
 [Jamboard](https://jamboard.google.com/d/1OTvTuyCl9rwvuoSVHO8b6PuhAICAVitvVmEYs1Ucj68/edit?usp=sharing)
 
 ###Lecture 17
+
 [Colab](https://colab.research.google.com/drive/1Oz56ZYNIB7sT6OZGFpPSUoL_zwJx7zDw?usp=sharing)
 [Jamboard](https://jamboard.google.com/d/16Nje7UUu3t2BlIc1pZAeQ0R1E5738PQ1Xb1vrTHhzCs/edit?usp=sharing)
 
 ###Lecture 18
+
 [Colab](https://colab.research.google.com/drive/1FuCwChw78u4mf1HDTF1bDs29-z1rUxAQ?usp=sharing)
 [Jamboard](https://jamboard.google.com/d/1rrSB040pY8qwWsuFLNfZIX3t6DcxrzTU16tvavEDZ7M/edit?usp=sharing)
 
 ###Lecture 19
+
 [Colab](https://colab.research.google.com/drive/1HS9pjQihxAkjYZHAdRKc7_sXPpYNujOY?usp=sharing)
 [Jamboard](https://jamboard.google.com/d/1-YG39YWPbN7JoeCgs8WCFdutRb160X_uNFLCmjgN2qs/edit?usp=sharing)
 
