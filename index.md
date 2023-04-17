@@ -1,16 +1,20 @@
-# [CSE 317 Sec 3](https://mohammadmotiurrahman.github.io/cse317_3)
-# [CSE 203 Sec 5](https://mohammadmotiurrahman.github.io/cse203_5)
-# [CSE 203 Sec 12](https://mohammadmotiurrahman.github.io/cse203_12)
-# [CIS 101 Sec 11](https://mohammadmotiurrahman.github.io/cis101_11)
+# Course Pages
 
+- [CSE 317 Sec 3](https://mohammadmotiurrahman.github.io/cse317_3)
+- [CSE 203 Sec 5](https://mohammadmotiurrahman.github.io/cse203_5)
+- [CSE 203 Sec 12](https://mohammadmotiurrahman.github.io/cse203_12)
+- [CIS 101 Sec 11](https://mohammadmotiurrahman.github.io/cis101_11)
 
-* * *
-# [Autumn 2022](https://mohammadmotiurrahman.github.io/autumn2022)
+---
 
-* * *
+# Semester Archive
 
-[email](mailto:mohammadmotiurrahman@gmail.com)
+- [Autumn 2022](https://mohammadmotiurrahman.github.io/autumn2022)
 
-[github.com/mohammadmotiurrahman](https://github.com/mohammadmotiurrahman)
+---
 
-[Data Structures](https://colab.research.google.com/drive/1UxLPRVgJe6Cleeqv3b59vl9fHWnk4ar5?usp=sharing)
+# Contact & Links
+
+- [Email](mailto:mohammadmotiurrahman@gmail.com)
+- [GitHub](https://github.com/mohammadmotiurrahman)
+- [Data Structures Notebook](https://colab.research.google.com/drive/1UxLPRVgJe6Cleeqv3b59vl9fHWnk4ar5?usp=sharing)
