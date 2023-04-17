@@ -40,6 +40,26 @@ Tuesday - 8am to 9:30am
 
 [Lecture 4](https://jamboard.google.com/d/1TyVL6nv3r9wWHIkZrXM2CgImMLZIwqVBIkyKd1uC0Iw/edit?usp=sharing)
 
+[Lecture 5](https://jamboard.google.com/d/1_aJxw63OwpzIW4lK2MD-kBbdaFH3L7ZXrolNq1ZEcPc/edit?usp=sharing)
+
+[Lecture 6](https://jamboard.google.com/d/1LSZxLLnAmgOEsE7in3CrYAfP0IAHtv6l5TXbuzUVGHY/edit?usp=sharing)
+
+[Lecture 7](https://jamboard.google.com/d/1mvIl5ciY1G6BYza5JeIZSclMXFWh2GOFg2dLHR4dBhg/edit?usp=sharing)
+
+[Lecture 8](https://jamboard.google.com/d/1fMFamriGFGdL5PZd3C3ypTlnHYh52RQltYj8T5mtvO0/edit?usp=sharing)
+
+[Lecture 9](https://jamboard.google.com/d/1R7yurKWk_ELfrOYW89rORqDRgPP9bBr1J_H6BrFN3xs/edit?usp=sharing)
+
+[Lecture 10](https://jamboard.google.com/d/1kJ3of7zHrwS0McXdR2GpOs_Y0_ULaIr7DD5NO0sOUYY/edit?usp=sharing)
+
+[Lecture 11](https://jamboard.google.com/d/1A_-LKDEsMo70j8RzqRq6Ne2JZMLFC0YZDEy6hxRxwUg/edit?usp=sharing)
+
+[Lecture 12](https://jamboard.google.com/d/1P6GcYJij1bSWkOMhw3if34USnJg5rPUEcGrb0aA2c0I/edit?usp=sharing)
+
+[Lecture 13](https://jamboard.google.com/d/1bGDAoeOilKyZvZECP2s-et-dYAg294fHNLUIhSNAD2s/edit?usp=sharing)
+
+
+
 * * * 
 
 ## Code of conduct
