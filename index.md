@@ -12,7 +12,6 @@
 
 ---
 
-## Connect & Learn
 📧 [**Email**](mailto:mohammadmotiurrahman@gmail.com)
 📁 [**GitHub**](https://github.com/mohammadmotiurrahman)
 📚 [**Data Structures Notebook**](https://colab.research.google.com/drive/1UxLPRVgJe6Cleeqv3b59vl9fHWnk4ar5?usp=sharing)
