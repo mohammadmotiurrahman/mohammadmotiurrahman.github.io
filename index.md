@@ -1,4 +1,4 @@
-# Welcome to Mohammad Motiur Rahman's Teaching Repository
+# Guten Tag
 
 # Course Pages
 - ## [**CSE 317** - Section 3](https://mohammadmotiurrahman.github.io/cse317_3)
