@@ -28,6 +28,8 @@ Tuesday - 8am to 9:30am
 
 [Sample 1](https://drive.google.com/file/d/1QqLzK8FiQI3eaNSuJx37IFO_tS3tkSoo/view?usp=share_link)
 
+[Sample 2](https://drive.google.com/file/d/1gNBlpEeXhNLPjbokAaXzlTcztDr1uh9h/view?usp=share_link)
+
 * * * 
 
 ## Lecture Jamboard
